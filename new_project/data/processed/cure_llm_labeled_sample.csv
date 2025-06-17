@@ -1,0 +1,38 @@
+id,start,end,text,emotions,situation,situation_type,valence
+20,178.596,180.598,"- You are?
+- Takabe, from headquarters.",['neutral'],introducing oneself,dialogue,0.5
+21,180.723,182.766,Thank you for coming.,['happiness'],expressing gratitude,social interaction,1.0
+22,182.933,186.312,"Mr. Takabe,
+do you want to see the cleaner...",['neutral'],meeting a cleaner,introduction,0.5
+23,186.437,188.772,"- who found the body?
+- No.","['neutral', 'contempt']",investigating a murder,crime,0.475
+24,189.982,194.236,"A prostitute. Something like this
+was bound to happen someday.","['sadness', 'contempt']",condemning someone's actions,judgment,0.375
+25,195.529,198.866,"- I'm Takabe.
+- Yasukawa, from the precinct.",['neutral'],introducing oneself,social,0.5
+26,199.533,200.951,Find anything?,['neutral'],searching for something,investigation,0.5
+27,201.243,202.453,Yes.,['neutral'],simple agreement,dialogue,0.5
+28,239.823,245.329,"If it was this Kuwano guy,
+he took off in the raw.",['neutral'],investigating a suspect,investigation,0.5
+29,245.996,250.167,And he left us his ID.,"['surprise', 'neutral']",inheriting an id,family,0.6
+30,253.587,254.964,Excuse me.,['neutral'],polite conversation,social,0.5
+31,263.347,268.435,"She was struck with a blunt object,
+but she died from loss of blood.","['sadness', 'neutral']",murder investigation,crime,0.4
+32,269.186,271.814,It wouldn't have taken long.,"['sadness', 'neutral']",reflection on past event,introspection,0.4
+33,272.439,276.819,"Both carotid arteries
+have been neatly severed.","['disgust', 'sadness']",victim of brutal murder,crime,0.35
+34,277.778,281.532,"Have you ever seen wounds
+like this before?","['disgust', 'surprise']",examining wounds,medical,0.55
+35,281.657,282.783,No.,['contempt'],refusing something,conflict,0.45
+36,283.534,284.535,I see.,['neutral'],realization,introspection,0.5
+37,285.452,289.206,But the perp is no ordinary character.,['neutral'],describing a suspect,investigation,0.5
+38,290.374,294.837,"You don't have to go this far
+just to kill someone.","['anger', 'contempt']",confronting a killer,confrontation,0.35
+39,297.464,301.385,"The suspect may have
+a motorcycle or a bicycle.",['neutral'],describing a suspect,investigation,0.5
+40,302.136,306.015,"Check all the service roads.
+I'm on my way.",['neutral'],giving directions,instruction,0.5
+41,317.067,319.778,"I'm going to check out his neighborhood.
+You want to come?",['neutral'],inviting to a trip,social,0.5
+42,337.421,339.631,"Takabe, here.",['neutral'],calling someone,dialogue,0.5
+43,346.055,349.224,<i>Then there was blood everywhere.</i>,[],unknown,unknown,0.5

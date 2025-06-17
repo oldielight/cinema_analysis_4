@@ -1,0 +1,1058 @@
+id,start,end,text,emotions,situation,situation_type
+1656,9658.36,9661.523,"<i>You grow so fast.
+Hold your breath.</i>",['affection'],A parent or guardian is giving a gentle warning to a child.,family
+1657,9664.0,9668.403,"<i>Remind me to let it out
+for you tonight.</i>","['love', 'affection']",A romantic promise,Romantic
+1658,9686.0,9687.843,<i>What happened with your old man?</i>,"['concern', 'curiosity']",Someone asks about someone else's father,Inquiry
+1659,9687.96,9689.291,<i>What do you mean?</i>,"['curiosity', 'incredulity']",One person asks for clarification from another.,Inquiry
+1660,9689.4,9692.768,"<i>That night after the fight, did he notice
+anything when you got home?</i>","['concern', 'caution']",question about a fight,investigation
+1661,9692.88,9695.804,"No, he'd gone to a movie
+with my mom.","['surprise', 'incredulity']",Finding out someone went to a movie with your mom,betrayal
+1662,9697.56,9700.086,"Wow, your sister's really cool!","['surprise', 'amusement']",Expressing admiration for someone's sister,Social Interaction
+1663,9703.96,9705.45,Thanks.,['gratitude'],expressing thanks,polite interaction
+1664,9705.56,9707.085,Move.,['authority'],Giving a direct order.,command
+1665,9733.0,9735.287,"I found that picture
+with the knife.","['concern', 'caution']",Character finds evidence of a crime,Mystery
+1666,9735.4,9738.324,"She must have used it
+in a love suicide.","['concern', 'seriousness']",Character speculates about someone's death,Tragic event
+1667,9741.2,9745.091,"Quit staring at it.
+Take it if you want.","['curiosity', 'caution']",Someone is hesitant to take an object.,Interaction
+1668,9749.04,9751.964,"Hey, I talked to Horsecart!
+- What for?",['curiosity'],Asking about a conversation with Horsecart,inquiry
+1669,9752.08,9755.129,"I told him I'm your buddy.
+He'll help us.",['confidence'],Character is reassuring someone about getting help from a friend.,Reassurance
+1670,9756.28,9757.964,Stand up straight.,['authority'],Someone is being told to stand up straight.,instruction
+1671,9764.2,9766.965,Don't make me repeat myself.,"['authority', 'caution']",A person is giving a warning to someone,Threat
+1672,9768.48,9770.05,You got that?,"['confidence', 'authority']",One person asks for confirmation from another,question
+1673,9873.56,9875.562,There's no one here.,"['caution', 'concern']",The character is expressing unease and uncertainty about being alone.,Isolation
+1674,9892.0,9894.002,I knew you'd be here.,['anticipation'],The speaker expected the person to be present,Expectation
+1675,9898.76,9900.888,What you told me last time...,['curiosity'],Character is recalling a previous conversation,memory recall
+1676,9901.0,9903.321,did you really mean it?,"['curiosity', 'incredulity']",One person questions the sincerity of another's statement,Interpersonal
+1677,9916.48,9918.767,I hope you weren't lying.,[],unknown,unknown
+1678,9919.52,9921.807,I couldn't bear that.,['concern'],The speaker expresses their inability to tolerate a situation.,personal struggle
+1679,9946.24,9948.049,It's Saturday again.,"['joy', 'anticipation']",The weekend has arrived,everyday life
+1680,9948.64,9950.529,Want to cut class?,"['anticipation', 'excitement']",Two friends consider skipping school,social
+1681,9952.6,9956.844,"No, we have all the time
+in the world.","['calm', 'relief']",A character is reassuring someone that they have plenty of time.,reassurance
+1682,9964.44,9966.727,<i>Spring disappears</i>,['awe'],A season changing,environmental
+1683,9966.84,9968.649,<i>Without a trace</i>,['concern'],Someone or something has gone missing,Mystery
+1684,9968.76,9973.846,<i>Leaving nothing behind...</i>,['nostalgia'],a character reflects on leaving something behind,reflection
+1685,9984.36,9987.489,"Here for your shot?
+Go over there.",['authority'],Giving directions,instruction
+1686,10019.4,10021.368,Apologize to them.,"['caution', 'concern']",Giving advice on how to resolve an issue,advice
+1687,10022.0,10023.525,Go on!,[],unknown,unknown
+1688,10023.72,10026.564,Want me to make you?,['affection'],"One person offers to do something for another person, implying a close relationship.",personal interaction
+1689,10027.36,10029.01,Motherfucker!,[],Character uses profanity,Conflict
+1690,10031.24,10033.083,Is that good enough?,['concern'],The character is seeking approval.,social interaction
+1691,10033.2,10035.726,Forget it. Let's go.,['caution'],Someone suggests to abandon a plan,decision
+1692,10035.92,10037.888,Not a chance!,['determination'],Refusing an offer or opportunity,conflict
+1693,10041.04,10043.361,"Just watch your step
+from now on.","['caution', 'concern']",A warning to be careful,Advisory
+1694,10053.68,10056.047,What are you so pleased about?,['curiosity'],Someone asks about another's pleased expression,query
+1695,10089.8,10092.201,Fix me up with Airplane!,"['excitement', 'amusement']",The character is asking for a specific movie to be played,request
+1696,10102.16,10103.81,Cat is cuter.,['amusement'],A comment is made about a cat's appearance,observation
+1697,10103.92,10105.809,I want to meet Airplane!,"['excitement', 'anticipation']",The speaker is looking forward to meeting someone named Airplane.,Meeting
+1698,10105.96,10107.485,I want one too!,"['excitement', 'anticipation']","A character wants something, probably a desirable object or experience.",desire
+1699,10124.04,10126.964,"<i>You need to be
+more aggressive on defense.</i>","['caution', 'concern']",giving advice on defense strategy,coaching
+1700,10127.08,10130.482,"<i>Don't let him get by.
+Next two.</i>",['determination'],Command to not let someone get past,Instruction
+1701,10130.84,10134.322,"Keep your arms out on defense.
+Go on.","['authority', 'caution']",Coaching on defense,Sports
+1702,10190.12,10192.885,"What's your connection
+to Wang Kuo-cheng?",['curiosity'],A person asks about someone else's connection to a third person,investigation
+1703,10194.72,10196.563,Wang?,['curiosity'],Calling someone's name,Query
+1704,10198.08,10199.65,He's...,[],The speaker is about to describe someone.,Introduction
+1705,10202.24,10204.163,a classmate.,['neutral'],Referring to someone in a classroom setting,Education
+1706,10204.28,10205.964,“Wang”?,['curiosity'],The speaker is inquiring about someone's name,Query
+1707,10207.16,10209.527,You seem to know him well.,['curiosity'],A character shows interest in another's relationship.,social interaction
+1708,10212.2,10214.407,Well... not really.,"['neutral', 'caution']",Responding to a question with hesitation,Conversation
+1709,10215.76,10219.287,"I see him now and then
+at class reunions.",['nostalgia'],The speaker talks about encountering someone from their past,Personal Experience
+1710,10225.6,10227.09,Here.,['neutral'],A person is responding to a request.,interaction
+1711,10232.64,10234.642,Write more?,['curiosity'],The speaker is asking if they should continue writing.,query
+1712,10247.32,10250.563,I'll be back for it before dawn.,['determination'], Character promises to return for something,commitment
+1713,10273.32,10275.641,I'm almost done.,"['anticipation', 'determination']",The speaker is close to completing a task.,Goal-oriented
+1714,10276.84,10279.081,Give me a little more time.,[],unknown,unknown
+1715,10280.88,10283.247,"<i>That's enough.
+You can go now.</i>","['authority', 'calm']",Telling someone they can leave,directive
+1716,10283.64,10285.324,<i>Hurry UP-</i>,"['urgency', 'caution']",Someone is being rushed to do something,directive
+1717,10347.08,10349.97,"- Hurry up.
+- My button fell off again.","['concern', 'caution']",A person is experiencing trouble with their clothing and seeks help.,Everyday situation
+1718,10350.44,10353.205,"- Didn't your sister just fix it for you?
+- Yes.",[],unknown,unknown
+1719,10400.28,10402.123,Mrs. Zhang.,['respect'],Addressing someone with respect.,Greeting
+1720,10410.48,10412.482,Do you have safety pins?,[],unknown,unknown
+1721,10416.12,10418.6,You better go or you'll be late.,['concern'],Warning someone about being late,Advice
+1722,10437.92,10439.922,Is my shirt ironed?,['concern'],Asking about the state of their clothing,Daily Life
+1723,10447.88,10450.008,I have to go to work.,['neutral'],The character is stating their obligation to go to work.,daily life
+1724,10472.68,10474.682,It's better this way.,"['relief', 'calm']",The character accepts a difficult decision,Resignation
+1725,10475.96,10479.169,"They found someone at the office
+to take over my work.",['relief'],The speaker's workload is being shared by someone else.,Work
+1726,10479.72,10482.087,Less work means less trouble.,['caution'],Character is suggesting that doing less work will result in fewer problems.,Advice
+1727,10484.2,10486.851,"You think it's related
+to your interrogation?","['caution', 'concern']",Questioning about a potential connection,Interrogation
+1728,10491.36,10494.967,Don't say things with no proof.,['caution'],Advising against making unsubstantiated claims,advice
+1729,10498.84,10500.808,How stupid can you be?,['concern'],A character is frustrated with someone's lack of understanding,Interpersonal conflict
+1730,10501.0,10504.971,"Weren't they waiting for a confession
+about Wang before they'd release you?",[],unknown,unknown
+1731,10506.32,10509.21,"I thought
+he was trying to help us.","['concern', 'curiosity']",The speaker is doubting someone's intentions.,Doubt
+1732,10510.8,10512.37,The way I see it...,"['thoughtfulness', 'neutral']",Character is about to share their perspective,Reflection
+1733,10512.56,10515.211,"he was trying
+to dissociate himself from you.",['concern'],Someone is trying to distance themselves from another person,relationship
+1734,10515.32,10518.051,"You're too honest
+to cover up his corruption.",['concern'],Accusing someone of not covering up corruption,Accusation
+1735,10522.6,10524.887,What kind of crazy idea is that?,"['incredulity', 'surprise']",someone presents an unexpected idea,question
+1736,10526.2,10529.363,"Didn't you go to him
+while I was being held?","['concern', 'caution']",Asking about someone's actions during a difficult situation,Inquiry
+1737,10530.24,10532.561,Didn't he do his best to help?,['concern'],A character is asking about someone's effort to help in a situation.,Inquiry
+1738,10533.36,10537.331,"Maybe he was pretending.
+Maybe he was behind the whole thing.","['concern', 'surprise']",Character suspects someone of deception,Suspicion
+1739,10537.88,10540.201,And that promotion he got you -,['pride'],Someone is recalling a past event where another person was promoted,nostalgia
+1740,10540.32,10542.129,You women!,['authority'],Addressing a group of women,Social interaction
+1741,10542.88,10545.69,"You know nothing
+about friendship between men!",['incredulity'],A character is expressing disbelief about someone's understanding of male relationships.,social interaction
+1742,10546.04,10549.249,"What are you good for
+besides being suspicious?","['concern', 'caution']",Accusation and questioning someone's abilities,Conflict
+1743,10640.92,10643.366,"It's been tough enough
+for us already.",['concern'],Expressing difficulties faced,Life struggles
+1744,10647.68,10651.241,"You and the kids
+are all I have left.","['love', 'concern']",The speaker is expressing the importance of their family after a loss.,Personal Loss
+1745,10659.08,10661.321,Please don't frighten me anymore.,['concern'],A person is asking another to stop scaring them.,Request
+1746,10676.76,10679.366,We only have each other now.,"['love', 'concern']",The characters are left alone and are acknowledging their dependence on each other.,isolation
+1747,10682.44,10686.161,"If you're not afraid,
+then I won't be.","['determination', 'protectiveness']",The speaker is trying to reassure someone and be brave for them.,Supportive
+1748,10754.44,10756.966,"What's the matter, Tiger?",['concern'],Someone is checking on someone else's well-being,Social Interaction
+1749,10763.56,10765.483,"Come on, speak up.","['authority', 'caution']",A person is being told to speak their mind,directive
+1750,10782.8,10785.246,<i>You should at least talk to him.</i>,['concern'],Advice to talk to someone,Advising
+1751,10788.24,10791.164,"You worried
+he'll try to get back at you?",['concern'],Someone is worried about someone else getting revenge,Worry about someone's intentions
+1752,10791.32,10792.81,He won't.,['concern'],Someone is expressing doubt about someone else's abilities,Interpersonal
+1753,10794.24,10796.163,It's over.,['relief'],Someone announces the end of something,announcement
+1754,10796.48,10798.323,"Let's drop him, okay?",['concern'],Suggesting to leave someone behind due to potential danger,Crisis
+1755,10803.36,10805.84,"How come you never
+told me about him?","['concern', 'curiosity']",Questioning someone about a hidden secret,Confrontation
+1756,10807.32,10809.402,What's there to tell?,"['neutral', 'curiosity']",A person is asked about something and responds with a question.,query
+1757,10810.16,10812.162,Lots of guys have ideas about me.,['curiosity'],The speaker is aware of others' opinions about them.,self-awareness
+1758,10812.36,10815.011,Haven't you heard enough?,"['concern', 'caution']",Someone is trying to stop another person from continuing a conversation.,Conflict
+1759,10818.2,10821.329,"Take the young doctor,
+for example.",['curiosity'],Someone is being referred to as an example for unknown reasons,explanation
+1760,10822.52,10824.522,Couldn't you tell?,['curiosity'],Someone is asking if the other person noticed something.,question
+1761,10827.24,10831.131,"How do you feel
+when I tell you these things?",['curiosity'],Asking about the other person's feelings,personal
+1762,10833.28,10836.17,Can't you just ignore them?,['concern'],Someone is suggesting to disregard others,advice
+1763,10837.76,10841.481,"You can't ask others to do
+what you think is right.","['authority', 'seriousness']",Advice on personal responsibility,Moral guidance
+1764,10862.48,10864.801,People will look down on you.,['concern'],Someone is warning about the consequences of an action,Warning
+1765,10867.28,10870.329,You mean you'll look down on me.,['concern'],The speaker is worried about being judged or looked down upon.,Social interaction
+1766,10895.16,10897.367,Who's there?,['curiosity'],Someone is asking who is at the door,query
+1767,10899.04,10901.361,"Lao Er, Si'r, get up!","['authority', 'concern']",A person is waking up others,daily life
+1768,10901.48,10903.209,There's a thief!,"['concern', 'caution']",someone alerts others about a thief, warning
+1769,10905.92,10908.082,"Lao Er, get up, hurry!","['urgency', 'concern']",Someone is telling Lao Er to get up quickly,instruction
+1770,10908.44,10910.169,Lao Er!,['affection'],A character is calling out to a loved one.,greeting
+1771,10910.44,10913.284,"See if the front door's
+been opened. Hurry!",[],unknown,unknown
+1772,10916.44,10918.124,The front door's fine.,"['relief', 'calm']",A person checks the front door and finds it's okay., Domestic situation
+1773,10918.24,10919.446,You sure?,['concern'],Someone is asking for confirmation about something,query
+1774,10919.6,10920.931,Yes.,['neutral'],Responding to a question,conversation
+1775,10921.08,10922.65,Take this!,"['determination', 'authority']","A character gives something to another character, possibly in a moment of defiance",Confrontation
+1776,10924.8,10926.45,He's hiding.,"['concern', 'caution']",Someone is suspected to be hiding,Suspicion
+1777,10927.08,10928.366,He's hiding outside.,"['concern', 'caution']",Someone is hiding outside and it's a cause for concern.,Suspense
+1778,10928.52,10931.808,"Impossible!
+Check the roof!","['surprise', 'incredulity']","Someone is alerted to check the roof, possibly due to an unexpected event",Alert
+1779,10931.96,10934.167,"- Get the flashlight.
+- Where is it?",['concern'],Looking for a flashlight in a potentially dangerous situation,Problem
+1780,10934.28,10935.441,Hurry!,"['urgency', 'concern']",Someone is telling another person to hurry up.,Instruction
+1781,10935.56,10938.291,"- Where is it?
+- In the kitchen drawer. Hurry!","['urgency', 'concern']",Character asks where something is and is told to hurry,Request
+1782,10938.4,10940.323,I can't find it.,['concern'],The speaker is unable to locate something.,Problem/Obstacle
+1783,10940.44,10943.011,Why don't you turn on some lights?,[],unknown,unknown
+1784,10943.48,10946.927,"What's with all the noise?
+I'm trying to sleep!","['concern', 'caution']",arguing about noise,conflict
+1785,10953.6,10956.365,He's hiding under the bed.,[],unknown,unknown
+1786,10958.68,10962.48,"He was standing right here
+and then suddenly vanished!","['surprise', 'incredulity']",unexpected event,plot twist
+1787,10965.84,10968.32,"It can't be!
+I saw him right here!","['incredulity', 'surprise']",someone denies the disappearance of someone else,conflict
+1788,10968.44,10970.522,How could he just vanish?,"['incredulity', 'concern']",character's unexpected disappearance,mystery
+1789,10970.84,10972.968,He couldn't have gotten away!,['incredulity'],Someone is expressing disbelief that someone else escaped,reaction
+1790,10995.2,10998.807,"Let her rest for now.
+Everything's under control.","['calm', 'authority']","A character tells another to let someone rest, assuring them that everything is under control.",Reassurance
+1791,11002.76,11005.206,"Luckily you rushed her over
+in time.",['relief'],A person is expressing gratitude for timely medical attention,medical emergency
+1792,11006.24,11009.005,"Didn't I warn her
+about charcoal smoke?","['concern', 'authority']","A person is recalling a warning they gave to someone about charcoal smoke, implying a potential danger.",Recollection
+1793,11017.64,11021.087,"Since ancient times
+the Chinese have loved camellias",['love'],Talking about the history of Chinese affection towards camellias,nostalgia
+1794,11021.2,11024.488,"for their elegance
+and refined beauty.",['awe'],describing something beautiful,aesthetic appreciation
+1795,11028.28,11030.567,"The kids used
+to play around here",['nostalgia'],The speaker is reminiscing about the past,reflection
+1796,11030.72,11033.246,"and pick the flowers
+when they were little.",['nostalgia'],Reminiscing about the past,Flashback
+1797,11035.24,11038.881,"This reminds me
+of your grandfather.",['nostalgia'],"A character mentions a past figure, evoking a sense of nostalgia.",Reminiscence
+1798,11039.12,11043.523,"The blossoms bring back
+happy memories of him.",['nostalgia'],A character reminisces about the past,reflection
+1799,11070.16,11072.288,Who's that lady?,['curiosity'],Asking about an unknown person,Query
+1800,11074.4,11076.289,You mean Hsiang-Ii?,['curiosity'],Asking for clarification about someone's name,conversation
+1801,11076.84,11079.241,"We're getting married
+in September.","['joy', 'love', 'excitement', 'anticipation']",A couple announces their wedding date,Personal news
+1802,11086.24,11088.083,I don't like her.,[],Expressing dislike towards someone,opinion
+1803,11088.28,11090.089,She's strange.,"['curiosity', 'incredulity']",A character expresses a opinion about someone's unusual behavior,judgment
+1804,11091.44,11095.126,"There's no love between you.
+She's not for you.",['concern'],A person is being told that they don't have a romantic connection with someone.,romantic_rejection
+1805,11100.68,11103.331,"You kids don't understand
+such things.",['concern'],An adult is telling kids they don't understand something.,admonition
+1806,11105.76,11109.207,"You don't have to say anything
+if you don't want to.","['calm', 'neutral']",A character is giving another character permission to remain silent.,social interaction
+1807,11112.92,11115.4,"Why do you think
+I don't understand?","['curiosity', 'incredulity']",Asking for clarification,Inquiry
+1808,11120.32,11123.085,Love isn't fun and games.,['seriousness'],The speaker is expressing a realistic view about relationships.,romantic
+1809,11126.28,11128.567,"Lots of guys say they love me,",['love'],speaker claims many people express romantic interest,romantic declaration
+1810,11128.96,11130.45,but...,['caution'],a character is hesitant or uncertain,uncertainty
+1811,11132.44,11135.842,"the minute there's trouble,
+they all run away.","['concern', 'caution']",Expressing distrust towards others in times of need,Social Commentary
+1812,11142.8,11144.689,"If you're troubled about something,",['concern'],Someone is offering help or advice,Supportive conversation
+1813,11144.84,11147.366,"you must tell me
+before I can help you.","['concern', 'authority']",A character demands information to provide assistance.,Demand
+1814,11157.36,11159.362,I won't tell you.,"['caution', 'concern']",A person is hesitant to share information.,conflict
+1815,11159.72,11163.361,"You wouldn't tell me, right?","['concern', 'caution']",Asking someone if they would keep a secret,Trust
+1816,11169.88,11173.441,"Don't worry about
+your mother's medical expenses.",['relief'],Reassuring someone about a financial concern,Comforting
+1817,11173.72,11177.088,"We're too close
+to worry about such things.",['caution'],characters are too close to a situation to worry about details,Warning
+1818,11189.56,11191.801,Still don't want to tell me?,"['concern', 'caution']",Two people are having a tense conversation.,Confrontation
+1819,11200.88,11202.405,<i>Zhang Zhen.</i>,['respect'],Addressing someone with respect,social interaction
+1820,11202.56,11204.562,<i>Come here a minute.</i>,"['curiosity', 'authority']",A person is being called over,command
+1821,11214.08,11216.526,<i>This is for your own good.</i>,"['concern', 'authority']",One person is trying to justify their actions to another person.,Conflict
+1822,11218.32,11220.368,"<i>I don't mean to pry,</i>",['curiosity'],The speaker is asking a question they know might be personal,inquiry
+1823,11220.52,11224.081,"<i>but for a love affair at your age,
+you need good advice.</i>","['concern', 'affection']",An older person is being cautioned about having a romantic affair.,advice
+1824,11226.72,11229.041,"Behaving like a hooligan, huh?","['curiosity', 'concern']",scolding someone for their behavior,reprimand
+1825,11229.16,11232.846,"Stand up straight
+when the doctor's talking!",['authority'],A person is being told to show respect to a doctor.,instruction
+1826,11234.28,11236.282,Motherfucking bitch.,[],Insult,Conflict
+1827,11236.4,11239.244,"What are you?
+The secret police?","['surprise', 'incredulity']",Someone is asked about their identity and occupation,Interrogation
+1828,11244.24,11245.924,What did you just say?,"['surprise', 'incredulity']",A character asks for clarification on something they didn't understand.,conflict
+1829,11246.04,11248.691,"Say that again.
+What did you say?","['surprise', 'incredulity']",Someone asks for clarification after hearing something surprising or unbelievable.,Conversation
+1830,11248.84,11250.49,I said you're the secret police.,"['authority', 'concern']",Accusing someone of being a secret police,Conflict
+1831,11250.6,11253.763,"Before that.
+About my mother.",['nostalgia'],character starts talking about their mother,personal history
+1832,11253.88,11256.281,"Try saying it again!
+- Fucking bitch!","['incredulity', 'surprise']",A character is shocked and angry at someone's response,Conflict
+1833,11256.44,11259.125,<i>What's going on?</i>,"['curiosity', 'concern']",Character is asking about the current situation,inquiry
+1834,11259.88,11261.291,What's this here?,['curiosity'],A character inquires about an unknown object or situation,inquiry
+1835,11261.4,11264.643,"Your students act
+like a bunch of hooligans.",['concern'],A teacher is addressing a class with a negative tone.,Criticism
+1836,11264.76,11267.127,Foul-mouthed and violent!,['concern'],Describing someone's character,Character description
+1837,11267.24,11270.323,"Dating girls and messing around
+with relationships!","['amusement', 'excitement']",Boasting about dating and relationships,Personal life
+1838,11270.48,11272.323,"- Mind your own fucking business!
+- Zhang Zhen!","['authority', 'concern']",A person is telling someone to mind their own business and is addressing them by name.,Conflict
+1839,11272.44,11274.363,To the conduct office!,['authority'],A character is directing someone to the conduct office.,directive
+1840,11274.48,11276.482,Big deal! Who cares?,['incredulity'],Responding to someone's concern,Defensive
+1841,11281.64,11284.291,"You had some harsh words
+about us last time.",['concern'],Someone is being confronted about their past criticism,Confrontation
+1842,11284.4,11286.164,"What about
+your parental guidance?",['concern'],A character is asking about someone's parental guidance.,question
+1843,11286.28,11289.09,"<i>Such foul language!
+Even I was embarrassed.</i>","['surprise', 'incredulity', 'embarrassment']",Reacting to someone's foul language,social interaction
+1844,11291.04,11294.442,"You parents don't do your job
+and then blame it on us.","['concern', 'caution']",A person expresses frustration towards their parents' lack of responsibility,Conflict
+1845,11294.56,11296.483,You have some nerve!,"['incredulity', 'concern']",Someone is being confronted about their audacity,confrontation
+1846,11300.28,11302.601,Please give him another chance.,['concern'],Pleading for someone to give someone else another chance,Request
+1847,11302.72,11304.324,Too late!,"['concern', 'seriousness']",Expressing urgency and worry,Warning
+1848,11305.28,11309.285,"He's fallen this far already.
+If we don't punish him properly,","['concern', 'caution']",Discussing consequences for someone's actions,Warning/Discussion
+1849,11309.92,11312.89,"you'll blame us again
+for not doing our job.","['concern', 'caution']",Defending oneself against potential blame,Conflict
+1850,11313.32,11316.369,"I don't want to be
+responsible for that.","['concern', 'caution']",Someone is hesitant to take responsibility for something.,Avoidance
+1851,11317.12,11318.804,It was my negligence.,['concern'],The speaker is taking responsibility for a mistake.,apology
+1852,11319.44,11321.522,Kids sometimes lose their heads.,['concern'],Warning about kids being careless,advice
+1853,11322.16,11324.527,Please excuse him just this once.,['concern'],Asking for forgiveness or mercy for someone,Request
+1854,11326.56,11328.688,"If he gets
+another demerit for this,","['concern', 'caution']",Warning about potential consequences,Warning
+1855,11328.8,11331.565,"he can't move on
+to the next grade.",['concern'],A student is struggling in school.,academic
+1856,11333.2,11335.043,That would be...,['neutrality'],A character responding to a question or statement with a vague or hesitant tone.,response
+1857,11336.0,11338.082,too unfair to him.,['concern'],expressing sympathy for someone who is being treated unfairly,social interaction
+1858,11338.84,11342.242,"Unfair? Didn't you think
+we were unfair last time?","['concern', 'incredulity']","A character is questioning the fairness of a situation, possibly in a past event.",Conflict
+1859,11342.36,11346.046,"Didn't you say
+you didn't care about demerits?","['concern', 'caution']",A person is questioning someone's previous statement about not caring about demerits.,Conflict
+1860,11347.08,11349.082,How come you care now?,"['concern', 'curiosity']",A character questions another's sudden interest in their well-being,Conflict
+1861,11351.24,11354.084,"We all work
+for the same government.",['authority'],A character states that they all work for the same government.,declaration
+1862,11354.2,11356.328,"What makes you
+so high and mighty?","['curiosity', 'concern']",A character questions another's arrogance.,confrontation
+1863,11385.6,11387.967,"<i>Mr. Zhang, buy some buns!</i>",['excitement'],A person is enthusiastically asking Mr. Zhang to buy some buns,request
+1864,11390.44,11392.522,"What's wrong?
+In a bad mood?",['concern'],Someone is asking if the other person is in a bad mood,query
+1865,11392.64,11394.244,Don't worry!,[],unknown,unknown
+1866,11395.48,11398.086,The sun will rise again tomorrow.,"['relief', 'anticipation']",A character is comforting themselves or others about the future,comfort
+1867,11398.24,11401.528,"A lively soul is never
+stifled by a fart, right?",['amusement'],A person makes a humorous comment about farts,social_interaction
+1868,11403.24,11405.163,Dumplings and buns!,"['excitement', 'joy']",Someone expresses enthusiasm for a type of food,Food-related
+1869,11406.08,11409.801,"Don't worry, Dad.
+Getting expelled isn't that bad.","['calm', 'concern']",Reassuring a worried parent about getting expelled,Reassurance
+1870,11410.52,11413.33,"This way I can take
+the transfer exam this summer.","['determination', 'anticipation']",Character wants to take a transfer exam,Academic
+1871,11413.44,11415.807,I'll get into day school for you.,['determination'],A person is promising to get into a school.,commitment
+1872,11419.08,11421.606,"Don't worry about me, Dad.","['concern', 'calm']",A child reassures their father,family interaction
+1873,11423.0,11425.287,I remember everything you said.,['nostalgia'],The speaker is recalling a past conversation.,memory
+1874,11425.84,11428.127,I'll always listen to you.,"['love', 'affection']",A person promises to always be there for someone they care about.,Relationship
+1875,11431.12,11434.567,"I remember you said
+one's own future",['nostalgia'],Character reminiscing about a past conversation,reflection
+1876,11434.68,11437.331,"can be determined
+by one's own efforts.","['determination', 'confidence']",Believing in one's own abilities.,motivational
+1877,11442.04,11446.09,"I hit him with the bat
+because he went too far,","['determination', 'concern']",Defending oneself from someone who crossed a boundary,Confrontation
+1878,11446.64,11448.688,just like last time when you -,['nostalgia'],A character is reminiscing about a shared experience,past event
+1879,11459.24,11461.242,"If I quit smoking,",['anticipation'],Considering quitting smoking,personal struggle
+1880,11461.64,11464.166,the money I save every month...,['pride'],Character is proud of their financial discipline,Personal Finance
+1881,11465.76,11467.967,"will be enough
+to buy you glasses",['affection'],A person is offering to buy someone glasses.,offering help
+1882,11468.36,11470.249,on the installment plan.,['neutral'],A character mentions a payment plan.,financial
+1883,11478.0,11480.844,"So when will we see
+each other again?",['anticipation'],Two people discuss their future meetings,Social Interaction
+1884,11483.52,11485.921,"Not until I've taken
+the transfer exams.",['determination'],Character is determined to take the transfer exams,Academic
+1885,11486.8,11489.644,"You can always come
+to school to see me.",['affection'],An offer of support and comfort,Comfort and Support
+1886,11490.68,11495.242,"Next time I enter the school gate,
+<i>I'll</i> be a day school student.","['anticipation', 'excitement']",The speaker is looking forward to a new experience at school,Personal Growth
+1887,11496.72,11500.52,"Sounds like Honey when he said
+he was going back to Tainan.",['nostalgia'],Character reminisces about someone's words,Reminiscence
+1888,11501.36,11503.249,You're not happy.,['concern'],Someone is expressing concern about another person's emotional state,Emotional Inquiry
+1889,11507.04,11508.963,I'll be worried about you.,['concern'],One person is expressing worry for another's well-being.,Caring
+1890,11509.84,11511.888,Don't be silly. Study hard.,[],unknown,unknown
+1891,11512.36,11514.362,I'm behind you all the way.,"['support', 'confidence']",A character is expressing their unwavering support for another character.,Supportive
+1892,11515.0,11517.606,"But let's not go today, okay?",['caution'],Declining an invitation or postponing an activity,Social Interaction
+1893,11518.2,11520.123,Everything's all arranged.,"['relief', 'confidence']",The character has made all the necessary preparations.,Planning
+1894,11520.72,11523.564,"Plus Cat and Airplane
+are both invited.",['joy'],Someone is invited to an event,Social
+1895,11532.36,11535.682,"Oh, dear!
+Our servant has quit.","['surprise', 'concern']",The servant has quit.,bad news
+1896,11536.0,11538.924,"Sorry I didn't come out
+earlier to say hello.","['apology', 'concern']",Apologizing for not greeting someone earlier,Social Interaction
+1897,11539.44,11542.569,"Don't worry.
+We'll help ourselves.","['determination', 'confidence']","A character is reassuring someone not to worry, implying they will take care of themselves.",Reassurance
+1898,11542.96,11544.769,Is this your classmate?,['curiosity'],Asking about someone's acquaintance,casual conversation
+1899,11544.88,11546.45,She's so pretty.,['admiration'],A character comments on someone's physical appearance,social interaction
+1900,11547.0,11550.243,"When I was carrying him,
+I wanted a girl.",['nostalgia'],A character reflects on their past experience with their child,Personal Reflection
+1901,11550.4,11552.243,Look how big he is now.,"['pride', 'nostalgia']","A person comments on the growth of someone, likely a child.",Personal observation
+1902,11552.36,11554.124,There you go again!,['amusement'],A character playfully reacts to someone's behavior.,lighthearted moment
+1903,11554.28,11557.011,Take your feet off the table.,['authority'],Someone is being told to stop doing something impolite.,instruction
+1904,11557.52,11559.887,Where are the others?,['concern'],Asking about the whereabouts of others,inquiry
+1905,11560.36,11562.806,"<i>- Range?
+- 700 yards.</i>",[],The speaker gives the range of something.,Information exchange
+1906,11563.52,11565.648,"<i>- How many?
+- A platoon.</i>",[],unknown,unknown
+1907,11566.2,11568.043,<i>Too far. It won't reach.</i>,['concern'],Someone expresses doubt about an object's ability to reach a target.,Warning
+1908,11568.2,11569.85,<i>Use mine.</i>,['protectiveness'],One person offers to help another person.,support
+1909,11572.2,11573.884,<i>Shit! They've got tanks!</i>,"['concern', 'surprise']",The character is reacting to a sudden threat.,battle
+1910,11574.04,11576.281,"<i>It's okay.
+We've got grenades.</i>",[],unknown,unknown
+1911,11578.24,11580.004,Who goes there? Password!,"['authority', 'caution']",A guard demands to know who is approaching and asks for a password.,Challenge/Confrontation
+1912,11580.12,11582.964,"Commie woman.
+Hands up.","['caution', 'concern']",A character is being addressed in a tense situation,Conflict
+1913,11583.12,11585.805,"- What are you doing?
+- Girls aren't into this stuff.",['concern'],"A person inquires about another's activity, and the other expresses doubt about the activity's appeal to girls.",social interaction
+1914,11585.96,11588.247,Stay back!,"['caution', 'concern']",Warning someone to stay back,Warning
+1915,11596.52,11599.49,"Cheer up, will you?",['concern'],Someone is trying to console another person.,Comforting
+1916,11599.88,11602.247,"Doesn't my thoughtfulness
+mean anything?",['concern'],The speaker is expressing their feelings of thoughtfulness and seeking validation.,Relationship
+1917,11603.32,11605.641,"Getting expelled from school
+is no big deal.",['neutral'],downplaying the severity of getting expelled,nonchalant attitude
+1918,11605.8,11608.485,"You don't even look
+after your own girlfriend.",['concern'],Accusation of neglect,Conflict
+1919,11729.24,11731.925,Your father's government career,"['neutral', 'nostalgia']",Mention of the past,Personal History
+1920,11732.04,11734.247,is doomed because of it,['concern'],Someone believes something is doomed,Prediction
+1921,11734.52,11737.285,"and because of his relations
+with Professor Hsia.",['respect'],Mentioning someone's connection to a respected authority figure.,Professional relationship
+1922,11740.8,11743.77,"I'm proud of all you kids
+for pulling through.",['pride'],expressing admiration for someone's achievement,appreciation
+1923,11743.96,11747.009,Especially Si'r.,['respect'],Expressing respect towards someone.,Social Interaction
+1924,11747.48,11751.769,"He's so determined to get back
+on track after all that's happened.",['determination'],character's resolve after setbacks,personal struggle
+1925,11754.28,11758.763,"Mom, after graduation,
+I'll work a while before going abroad.","['anticipation', 'excitement']",A person shares their post-graduation plans with their mom,Personal planning
+1926,11759.0,11763.085,"No, you go as soon as you get
+your scholarship.",['determination'],Telling someone to pursue their opportunity,Encouragement
+1927,11763.2,11767.091,"But Lao Er's going to college,
+plus there's Si'r and the youngest one.",['pride'],A family is discussing their children's futures,family
+1928,11767.2,11769.248,It's too much for you.,[],unknown,unknown
+1929,11769.4,11771.209,We've managed up to now.,"['relief', 'pride']",Character reflects on past accomplishments,Reflection
+1930,11771.36,11774.33,"Don't worry until
+you've made it in America.",['caution'],Giving advice about worrying,Advice
+1931,11774.48,11776.403,Four pounds of rice.,['neutral'],A character mentions the quantity of rice.,statement
+1932,11776.52,11779.364,"Can you put this on credit,
+Uncle Fat?",['caution'],Asking for financial help from an uncle,Request
+1933,11779.48,11781.084,No problem.,['neutral'],Responding to a request.,social interaction
+1934,11781.56,11783.085,May I butt in?,"['curiosity', 'caution']",Asking for permission to interrupt,Social interaction
+1935,11783.2,11785.202,"Many people say I'm too nosy,",['curiosity'],The speaker is self-aware of their nosy nature,self-reflection
+1936,11785.56,11787.688,"but I'm actually
+a lot like your husband.",['surprise'],A character reveals an unexpected similarity with someone else's husband,Revelation
+1937,11787.8,11789.609,You have preserved eggs?,"['surprise', 'curiosity']",A person is surprised to find preserved eggs,Daily Life
+1938,11790.0,11791.49,Over there.,['neutral'],Pointing out a location,direction
+1939,11794.84,11797.286,<i>Your SH saved my “fie.</i>,['gratitude'],A character expresses thanks to another for saving their life.,Dramatic
+1940,11798.72,11802.486,I think it's my turn to help you.,"['gratitude', 'protectiveness']",One person offers to repay a favor.,reciprocity
+1941,11806.8,11809.565,"Uncle Fat said Mr. Lin
+is native Taiwanese.",['neutral'],Uncle Fat informs about Mr. Lin's origin,informative
+1942,11809.68,11811.444,A very honest man.,['respect'],Describing someone's character,Character description
+1943,11811.8,11814.371,"He's starting
+a fruit export business.",['ambition'],Starting a new business venture,Goal-oriented
+1944,11814.48,11817.643,"He needs a partner
+with formal education.",[],unknown,unknown
+1945,11823.2,11825.601,"The starting salary
+may not be much,",['caution'],A person is discussing the starting salary of a job,Work-related conversation
+1946,11826.28,11830.046,"but if you work hard,
+you'll be your own man.","['determination', 'ambition']",encouraging someone to work hard,advice
+1947,11837.2,11840.01,"What if he goes bankrupt
+a month from now?",['concern'],expressing worry about someone's financial situation,financial
+1948,11841.08,11843.89,"Talk to him first.
+Feel each other out.",['caution'],Someone is being advised to approach a conversation with someone else carefully,advice
+1949,11844.24,11847.562,"You can't doubt a guy
+without knowing him.",['caution'],Advising against judging someone without getting to know them,Advice
+1950,11852.88,11855.724,"I've worked
+for the government all my life.","['pride', 'neutral']",The speaker is reflecting on their career,Reflection
+1951,11856.32,11859.244,"I'm used
+to the stability and security.","['security', 'calm']",Character expresses comfort with current situation,Personal Reflection
+1952,11859.36,11862.409,"You really think
+this is stable and secure?","['concern', 'caution']",A character questions the safety of a situation,doubt
+1953,11868.24,11871.767,"I was gonna mail it today
+if you didn't show up.",['relief'],"The speaker was about to take an action, but the arrival of someone prevented it.",Avoidance
+1954,11872.24,11875.881,"<i>Did you bring your friend
+some slippers, Cat?</i>",['concern'],Asking if someone brought something for another person's comfort,interpersonal interaction
+1955,11894.28,11896.521,What did I go out there for?,"['curiosity', 'incredulity']",The speaker is trying to remember the purpose of their action.,Self-reflection
+1956,11896.64,11898.449,Why'd you turn it off?,['concern'],A person turns off something and another person inquires about the reason,inquiry
+1957,11898.56,11900.801,"It sounds awful!
+Who are you mailing it to?",['concern'],Reacting to bad news,Reactions
+1958,11900.92,11903.048,You'll find out later.,['caution'],Someone is being secretive about information.,conflict
+1959,11905.52,11907.682,"How's school?
+Everything okay?",['concern'],Asking about school,Inquiry
+1960,11907.8,11910.883,"Same as always.
+Nothing ever changes.","['neutral', 'concern']",A character expresses frustration about the monotony of their life.,frustration
+1961,11913.16,11915.049,You seen Ming lately?,['concern'],Asking about someone's whereabouts,Inquiry
+1962,11915.16,11917.606,She's fine!,['relief'],Someone inquires about a person's condition and receives a reassuring response.,Health and wellness
+1963,11917.72,11919.449,Just concentrate on your books.,"['authority', 'seriousness']",An authority figure is telling someone to focus on their studies.,instruction
+1964,11919.6,11921.887,"Me and Airplane
+will look after her.",['protectiveness'],A character promises to take care of someone.,promise
+1965,11942.32,11944.971,"Chiung, come give me a hand.",['affection'],A character asks for assistance from someone they care about,Request for help
+1966,11945.24,11947.766,"Uncle Fat's family
+will be here at 7:00.",['anticipation'],Preparing for a family gathering,Social
+1967,11952.04,11954.042,"Clear the table, would you?",['authority'],Giving an order,Directive
+1968,11957.32,11958.651,<i>Where's Sh'?</i>,['concern'],A character is asking about the whereabouts of another character.,Query
+1969,11959.36,11961.408,I sent him to the movies.,[],unknown,unknown
+1970,11977.88,11982.01,"“The score with Sly
+will be settled by this day.”",['determination'],A character vows to resolve a score with someone.,threat
+1971,11987.64,11989.13,Sly?,['curiosity'],Someone is trying to get someone's attention.,calling out
+1972,11989.76,11992.286,He hasn't come around in ages.,"['concern', 'nostalgia']",expressing worry about someone's absence,personal relationship
+1973,11993.0,11997.528,"He disappeared
+after he escaped the massacre.","['concern', 'caution']","Someone escaped a massacre, but then disappeared",Danger
+1974,11998.84,12001.491,"They fired his old man
+because of him.",['concern'],A character's father gets fired due to the character's actions,consequences
+1975,12003.36,12006.728,"They hold political meetings
+in the auditorium,",[],A group holds meetings in an auditorium,setting
+1976,12006.88,12009.201,"but outsiders
+can't rent it anymore.",['concern'],Someone is talking about restrictions on renting a place,restriction
+1977,12010.2,12012.441,I got the worst of it.,['relief'],Character expresses relief after getting through a difficult situation,post-crisis
+1978,12012.6,12014.967,My business has gone to hell.,['concern'],The speaker's business is failing.,problem
+1979,12015.16,12018.243,"The damn cops
+come round all the time.","['concern', 'caution']",Talking about frequent visits from the police,Daily Life
+1980,12022.4,12024.243,<i>Closing up already?</i>,['surprise'],A person is surprised that a place is closing already,query
+1981,12024.4,12026.607,Shit! Look who's here!,['surprise'],unexpected encounter,social
+1982,12032.4,12033.89,<i>Sh.</i>,['caution'],A character is telling someone to be quiet,instruction
+1983,12046.72,12050.406,"Jade said she's been
+seeing you at the library.","['concern', 'caution']",Someone is being accused of something,Accusation
+1984,12051.28,12054.09,"You got kicked
+out of school too?",['surprise'],One person asks another if they also got kicked out of school,conversation
+1985,12057.76,12059.603,You seem really different.,['curiosity'],A character notices a change in someone.,observation
+1986,12059.76,12061.285,Move your feet.,['authority'],Someone is told to move their feet,directive
+1987,12068.76,12070.922,I was really too much back then...,['nostalgia'],The speaker is reflecting on their past behavior,Self-reflection
+1988,12072.12,12074.282,wound up so tight all the time.,['concern'],Comment on someone's state,Character observation
+1989,12075.0,12077.128,It makes me laugh!,['amusement'],expressing happiness,personal_feeling
+1990,12081.08,12084.163,"Don't let the past
+get you down, okay?",['concern'],advice to overcome past struggles,motivational
+1991,12086.2,12088.282,I feel really bad about it.,['concern'],The speaker expresses regret over a past action.,apology
+1992,12093.64,12096.405,"Come on, man.
+It was all my fault.",['concern'],Taking responsibility for a mistake,Apology
+1993,12096.76,12098.364,Let it go.,['determination'],Character decides to move on from past,Empowerment
+1994,12100.64,12102.847,"What school
+are you trying to get into?",['curiosity'],Asking about someone's academic goals,Inquiry
+1995,12103.36,12105.886,"I'm trying to test
+into day school.",['determination'],A person is trying to get into day school,Goal-oriented
+1996,12107.92,12109.763,You got some balls!,"['surprise', 'respect']",Someone is impressed by another person's courage.,Compliment
+1997,12111.96,12115.646,"Even military academies
+won't take punks like me.",['concern'],The speaker is doubting their own abilities and feels they are not good enough.,Self-doubt
+1998,12116.92,12119.207,You and I were such enemies.,['nostalgia'],Looking back at past conflicts,reflection
+1999,12119.44,12121.363,Now we're in the same boat.,"['neutral', 'caution']",Two people find themselves in a similar situation,Realization
+2000,12121.56,12124.484,"We even have the same
+bad luck with girlfriends.",['amusement'],Two people finding common ground in their bad luck with girlfriends.,social interaction
+2001,12126.32,12128.243,What do you mean?,['curiosity'],Asking for clarification,Questioning
+2002,12128.92,12130.49,That Ma!,['affection'],Expressing love and affection towards mother,Family
+2003,12131.68,12133.682,He's really slick.,"['curiosity', 'incredulity']",A character comments on someone's smooth behavior,Social interaction
+2004,12135.56,12139.201,"I figure you'll be like me
+and not hold it against him.","['forgiveness', 'caution']",A character suggests not to hold a past mistake against someone.,Interpersonal Conflict Resolution
+2005,12140.16,12142.162,He stole Jade from me.,['concern'],Character expresses loss and worry about someone being taken away.,relationship issue
+2006,12142.64,12144.802,"Now he's messing around
+with Ming.",['concern'],A person is worried about someone messing with Ming.,Warning
+2007,12148.52,12150.807,"When are you signing up
+for the exams?",['curiosity'],Someone is asking about someone else's plans to take an exam,Inquiry
+2008,12150.92,12153.287,"My math and English
+are the pits -",['concern'],The speaker is expressing their struggles in school.,Academic struggle
+2009,12153.92,12155.49,<i>Sh.</i>,['caution'],A character is telling someone to be quiet.,Warning
+2010,12158.16,12160.128,Let's keep in touch.,['affection'],A person is expressing their desire to maintain a connection with someone,Social Interaction
+2011,12161.84,12165.242,"What was that for?
+You want trouble, asshole?","['concern', 'caution']",two people arguing,conflict
+2012,12165.36,12167.806,"Mess with me
+and <i>I'll</i> call the cops!","['caution', 'authority']",A person threatens to call the police if someone messes with them.,conflict
+2013,12167.92,12171.288,"Motherfucker!
+- Come on, forget it.",['caution'],A person tries to calm another down after an outburst.,Conflict resolution
+2014,12173.64,12176.689,"<i>- Who are you here to see?
+- Is Ma home?</i>","['concern', 'curiosity']",A person asks if someone is home,query
+2015,12176.8,12178.29,<i>Wait here.</i>,"['authority', 'caution']",Telling someone to wait,instruction
+2016,12182.56,12184.05,What's your name?,['curiosity'],One person asks another for their name.,Introduction
+2017,12184.2,12185.884,<i>Si 'r.</i>,['respect'],Addressing someone with respect,Formal Interaction
+2018,12212.28,12215.762,"Shit, it's been a long time!
+What have you been up to?","['surprise', 'curiosity']",A reunion or meeting after a long time,Social Interaction
+2019,12216.04,12218.088,That's what I want to ask you.,['curiosity'],Asking a question,Inquiry
+2020,12218.76,12220.967,"I'm the same old me.
+What else?",['neutral'],The speaker is asserting their consistency.,self-affirmation
+2021,12221.92,12225.527,"Hey, did you know
+Ming's living here now?",['surprise'],Informing someone about a person's new residence,social interaction
+2022,12226.08,12228.162,Remember when you guys came over,['nostalgia'],The speaker is reminiscing about a past social gathering,Social Interaction
+2023,12228.32,12230.163,and our maid had quit?,"['surprise', 'concern']",A maid has quit and the character is reacting to the news,Domestic issue
+2024,12230.76,12234.651,"Ming came to my mom to see
+if her mother could fill the job.",['curiosity'],Ming inquires about a job opportunity for his mother,query
+2025,12234.8,12238.247,"My mom really likes her
+and gave her mother the job.","['gratitude', 'affection']",A person's mom likes someone and helps them out by giving their mom a job,Family
+2026,12238.68,12240.444,Ming's not bad.,['neutral'],Evaluating someone's character,Assessment
+2027,12241.56,12244.006,"She's inside.
+Want to come in?","['neutral', 'calm']",offering entrance,invitation
+2028,12245.28,12247.521,"What's this I hear
+about you and her?","['curiosity', 'concern']",A character inquires about a rumor involving the other person and someone else.,interrogation
+2029,12248.36,12250.089,What do you mean?,['curiosity'],Asking for clarification,Inquiry
+2030,12250.2,12252.487,Girls. It's the same old shit.,"['neutral', 'concern']",Expressing frustration about a repeated situation,Frustration
+2031,12252.6,12255.729,"Dress 'em nice, feed 'em well,
+fool around a bit.","['amusement', 'joy']",A person is giving advice on how to treat someone nicely,Social interaction
+2032,12255.84,12257.649,What else is there?,['curiosity'],Asking for more information,Inquiry
+2033,12262.44,12264.92,You don't look too happy.,['concern'],Someone comments on another person's unhappy appearance.,Social Interaction
+2034,12266.28,12269.841,"Don't let some stupid girl
+come between us, buddy.",[],unknown,unknown
+2035,12271.32,12272.81,It's okay.,"['calm', 'relief']",Reassuring someone that everything is fine.,Comforting
+2036,12274.6,12278.321,"When you two were fooling around,
+did she mention Honey a lot...","['curiosity', 'concern']",Asking about someone's past conversations,inquiry
+2037,12278.72,12281.564,"and say you weren't giving her
+a sense of security?",['concern'],Questioning someone's actions towards another person,Interpersonal
+2038,12283.84,12288.004,"What's wrong? Don't get
+all worked up over some girl!","['concern', 'caution']",calming someone down,advice
+2039,12288.24,12290.925,"Come on in.
+Let's shoot a few rounds.","['excitement', 'anticipation']",Inviting someone to play a game or engage in a fun activity,Social Interaction
+2040,12291.12,12293.407,"That's okay.
+I'm gonna catch a movie.",['neutral'],A person is responding to an unmentioned situation and decides to watch a movie.,Everyday Conversation
+2041,12313.36,12315.966,"- Got any money on you?
+- <i>A</i> little.",['amusement'],A lighthearted conversation about money,Social Interaction
+2042,12316.68,12318.045,How much?,['curiosity'],Asking the price of something,Query
+2043,12318.2,12320.202,<i>How much you need?</i>,"['caution', 'concern']",asking about someone's needs,inquiry
+2044,12321.68,12323.409,Never mind.,"['neutral', 'caution']",A person is backing down from a conversation or argument,Conflict
+2045,12360.68,12364.446,"Look at it
+as meeting friends for dinner.",['affection'],comparing a situation to a casual social gathering,analogy
+2046,12364.56,12366.403,Just be relaxed.,['calm'],Calmness is being advised.,Advice
+2047,12368.44,12371.125,"Chuan, I need my watch.",['concern'],Requesting a personal item,Everyday conversation
+2048,12371.24,12373.129,<i>I put it back.</i>,['relief'],Returning something that was taken,Restitution
+2049,12373.4,12375.209,"Well, it's not here.","['concern', 'caution']",Character can't find something,Problem
+2050,12376.08,12378.003,<i>Uncle Fat's here.</i>,"['joy', 'excitement']",A character announces the arrival of a loved one.,Family reunion
+2051,12391.48,12394.245,"- I want to go.
+- I'll bring you bubble gum.","['excitement', 'affection']","A person wants to leave, and another person offers a small gift as a token of affection.",goodbye
+2052,12394.44,12396.169,Lousy bubble gum!,['incredulity'],Expressing disappointment at something,complaint
+2053,12406.32,12408.891,How many for dinner?,['neutral'],inquiring about the number of people for dinner,daily life
+2054,12409.28,12412.045,Si'r is studying at the library.,[],unknown,unknown
+2055,12413.76,12415.285,How about Lao Er?,['curiosity'],Asking about someone's status or availability,Query
+2056,12415.44,12417.283,I don't know.,['neutral'],The speaker is unsure about something.,Uncertainty
+2057,12419.88,12422.531,He's had a good appetite lately.,['relief'],Someone is pleased that someone else is eating well,health
+2058,12427.64,12429.324,What's wrong?,['concern'],Someone is asking about someone else's well-being,Social Interaction
+2059,12434.6,12436.807,"<i>You're always outside
+whenever Mom's gone.</i>","['concern', 'caution']","A person is accusing someone of always being outside when she's not around, implying they might be up to no good.",Accusation
+2060,12436.96,12438.564,<i>Come eat your dinner!</i>,['affection'],A family member is being called to dinner,family interaction
+2061,12438.68,12440.648,I'm not hungry yet.,['neutral'],The speaker is not feeling hungry,Physical Needs
+2062,12443.0,12445.48,"- You're asking for it!
+- I'm coming.",['determination'],A confrontation is about to happen,Conflict
+2063,12445.6,12449.161,"- Is stealing Mom's watch a habit now?
+- I didn't take it.",[],unknown,unknown
+2064,12449.28,12452.523,"She noticed it was gone!
+What will you do now?","['concern', 'surprise']",A character realizes something is missing and asks what to do next,problem
+2065,12454.64,12456.13,What's this about?,['curiosity'],Asking about the topic,inquiry
+2066,12456.36,12459.011,"It's for grown-ups.
+Stay out of it.","['authority', 'caution']",Someone is being warned to stay away from something,Warning
+2067,12459.16,12461.003,You're so mean!,['concern'],Someone is being accused of being mean,Conflict
+2068,12461.8,12463.45,Where are you going?,"['curiosity', 'concern']",One person asks another about their whereabouts,Inquiry
+2069,12463.6,12467.161,"- Are your folks home?
+- They went out to dinner.",['neutral'],inquiring about someone's family,query
+2070,12467.28,12469.726,"- What's with Lao Er?
+- Oh, nothing.",['neutral'],Someone asks about Lao Er and gets a brief answer.,Conversation
+2071,12470.0,12472.401,"It's been ages.
+Are they doing all right?",['concern'],Asking about someone's well-being after a long time,Inquiry
+2072,12472.56,12474.801,<i>I'll</i> come in a while and wait.,['anticipation'],Someone agrees to wait for someone else,promise
+2073,12479.72,12482.803,Where are all the ashtrays?,['concern'],A person is looking for ashtrays and is concerned about their absence.,query
+2074,12488.0,12489.843,Dad quit smoking.,"['relief', 'pride']",A family member quits a bad habit.,Personal Achievement
+2075,12496.76,12499.127,You still using this thing?,['curiosity'],a person asks about someone's usage of an object,inquiry
+2076,12504.56,12506.528,It's useless!,"['frustration', 'incredulity']",Expressing disappointment and disbelief,Negative Reaction
+2077,12508.32,12512.644,"You know, I took your dad
+to buy this radio.",['nostalgia'],A character reminisces about a past event,flashback
+2078,12513.88,12516.724,"At the Wing On
+department store in Shanghai.",[],Setting the scene in a department store in Shanghai,setting_description
+2079,12517.2,12520.921,"Your mom wasn't even
+as old as you are now.",['nostalgia'],The speaker is reflecting on the past and comparing the present to it.,reflection
+2080,12526.92,12529.571,"You should throw
+that useless junk away.",['concern'],Someone is advised to get rid of something considered useless,Advice
+2081,12529.88,12532.611,"What were you doing
+at the church library?","['curiosity', 'concern']",Someone is asking about someone else's whereabouts,Interrogation
+2082,12532.72,12535.61,"My sister told me about it.
+How about you?","['curiosity', 'neutral']",Two people discussing how they found out about something,casual conversation
+2083,12535.72,12539.406,"I play when it's time to play,
+study when it's time to study.",['determination'],A character is setting boundaries and prioritizing their responsibilities,Goal-oriented
+2084,12540.96,12543.327,So Chiung is your sister?,['curiosity'],Asking about someone's family relationship,Inquiry
+2085,12545.6,12547.364,She's really religious.,['neutral'],A statement about someone's religiosity.,character description
+2086,12547.48,12550.723,"We were both
+in the church choir at one point.",['nostalgia'],Two people share a nostalgic memory,Personal history
+2087,12554.2,12557.363,"What'll we do after the movie?
+- Some rock and roll joint?",['anticipation'],Planning what to do after the movie,Social Planning
+2088,12557.52,12559.249,"No, too expensive.","['caution', 'concern']",The speaker is hesitant to make a purchase due to the high price.,Financial decision
+2089,12559.4,12562.37,"You want to be like Ma?
+Don't be stupid.","['concern', 'caution']",argument between two people about someone they admire,conflict
+2090,12564.76,12567.081,Didn't you quit?,['surprise'],Someone is asked about their previous decision,confrontation
+2091,12575.2,12577.441,How about 300 a game?,['anticipation'],A character suggests a bet,gambling
+2092,12579.28,12581.886,"Shit!
+You need money that bad?","['surprise', 'concern']",A person is reacting to someone's desperation for money,Conflict
+2093,12591.28,12593.328,This is a real opportunity for you.,"['ambition', 'opportunity']",A person is presented with a chance to advance,Motivational
+2094,12593.44,12597.126,"I was impressed with Mr. Lin.
+He's honest and direct.",['respect'],Expressing admiration for someone's honesty,Appraisal
+2095,12597.68,12599.762,"It's time to stop
+dragging your feet.","['caution', 'concern']",Advising someone to take action,Advice
+2096,12599.92,12602.207,"<i>Dad, Mr. Wang was here.</i>",['concern'],"A child informs their father about a guest, Mr. Wang, who visited.",Family Interaction
+2097,12607.72,12610.2,I forgot your bubble gum!,"['surprise', 'concern']",forgetting something important for someone,apology
+2098,12610.64,12613.53,I'll make it up to you next time.,[],unknown,unknown
+2099,12614.96,12617.85,"Why the sad face?
+- Big sister bawled me out.","['concern', 'caution']",Someone is asked about their sad face and responds that their big sister scolded them.,Family Interaction
+2100,12618.0,12620.048,"She did?
+Were you naughty?","['curiosity', 'amusement']","One person asks about someone else's behavior, with a hint of playfulness",social interaction
+2101,12620.16,12621.571,No.,['neutral'],Responding to a question or request,Response
+2102,12621.68,12623.523,Then why'd she do that?,['incredulity'],Questioning someone's actions,conflict
+2103,12630.04,12632.725,"- Where's Lao Er?
+- He went out.",['concern'],Lao Er is missing,query
+2104,12632.84,12634.842,Where'd he go?,['concern'],A person is searching for someone who has gone missing,query
+2105,12636.8,12640.361,"Little brat!
+Just had to snitch, didn't you!","['concern', 'caution']",Scolding a child for telling on someone,Conflict
+2106,12645.52,12648.0,<i>I saw Sly last night.</i>,['neutral'],The speaker mentions seeing someone named Sly.,casual conversation
+2107,12648.76,12650.808,<i>He's totally changed.</i>,['surprise'],A person notices a significant change in another person.,Observation
+2108,12652.48,12654.721,<i>I guess people really do change.</i>,"['surprise', 'incredulity']",The speaker is reflecting on how people can change over time,reflection
+2109,12655.68,12658.684,<i>It was a comforting feeling.</i>,['comfort'],A character describes a pleasant experience,reflection
+2110,12659.72,12662.041,What are you going on about?,"['curiosity', 'incredulity']",A character is confused and asking for clarification.,conflict
+2111,12664.08,12667.88,"Jade, can we be close
+to each other?","['love', 'affection']",A character asks to be close to someone they care about.,romantic
+2112,12669.6,12672.922,"I could help you feel
+that same way.","['love', 'affection']",offering emotional support,romantic
+2113,12674.2,12676.726,Don't you need that sometimes?,['curiosity'],One character asks another if they need something,query
+2114,12678.16,12680.208,"You're a serious one,
+aren't you?",['seriousness'],Someone is being described as serious,character observation
+2115,12680.36,12682.886,"Didn't you look down
+on me before?",['concern'],The speaker questions if the other person had a low opinion of them,Conflict
+2116,12683.16,12684.207,Actually -,[],Starting a sentence,neutral
+2117,12684.32,12686.926,Now you seem eager to change me.,"['concern', 'caution']",one person accuses the other of trying to change them,relationship
+2118,12688.4,12691.085,"Am I your little
+biology experiment, or what?",[],unknown,unknown
+2119,12691.8,12694.804,"You have a lot
+of philosophical ideas.","['curiosity', 'respect']",One character expresses interest in another's ideas.,intellectual discussion
+2120,12698.24,12701.926,"I'm happy with the way I am,
+but are you?","['joy', 'curiosity']",A person expresses their contentment with themselves and asks if the other person is also happy with who they are.,Self-reflection
+2121,12703.96,12705.928,What if I don't change?,['concern'],Character is worried about not making a change.,Personal Growth
+2122,12707.56,12710.245,"What if I don't change
+to suit your ideas?","['concern', 'caution']",A person is pushing back against someone else's expectations.,Conflict
+2123,12710.4,12712.562,Will you just walk away?,['concern'],A character asks another to leave,conflict
+2124,12714.92,12718.322,"You're so selfish!
+Who do you think you are?","['concern', 'incredulity']",A person is accused of being selfish,Conflict
+2125,12731.0,12733.401,"Jade, I didn't mean any harm.","['concern', 'caution']",apologizing after causing unintentional harm,apology
+2126,12736.96,12740.931,"By the way, thanks for the rumors
+you started back then.",['gratitude'],character thanks another for spreading rumors,social interaction
+2127,12741.68,12744.206,What rumors? Back when?,"['curiosity', 'caution']",Asking about rumors,inquiry
+2128,12744.68,12746.648,Playing dumb?,['incredulity'],Accusing someone of pretending to be unaware,Confrontation
+2129,12746.76,12750.128,"When the 217 boys
+cornered Sly at the school.","['concern', 'caution']",Sly is cornered by 217 boys at school,bullying
+2130,12750.24,12754.04,"Did you really not see
+it was Ming he was with?","['surprise', 'incredulity']",Someone is questioning if someone else saw something they did not think they would miss,accusation
+2131,12754.44,12757.887,"Sly was scared
+Honey might find out.","['concern', 'caution']",Sly is worried that Honey might discover something,personal_relationship
+2132,12758.0,12760.651,"He made me tell everyone
+it was me.","['caution', 'concern']",Someone is forced to reveal a truth about themselves,conflict
+2133,12760.8,12763.007,I was such an idiot!,['incredulity'],The speaker is expressing regret over a past action,self-reflection
+2134,12764.16,12766.64,"Why don't you give Ming
+your philosophy lecture?",['curiosity'],Asking someone to share their philosophical thoughts,inquiry
+2135,12766.8,12769.121,She's got me beat by a mile.,['incredulity'],Expressing amazement at someone's superiority,Admission of inferiority
+2136,12793.16,12796.323,"You're shameless!
+Hopeless!",['incredulity'],Someone is being criticized for their behavior,Confrontation
+2137,12797.68,12800.047,Tell your father you're sorry.,"['concern', 'authority']",A parental figure is instructing someone to apologize to their father.,Family Conflict
+2138,12801.96,12804.645,"That's enough, Dad.",['concern'],"A person interrupts their dad, likely to prevent an argument or unwanted conversation.",family interaction
+2139,12806.48,12808.209,"That's enough, Dad.","['caution', 'concern']",A person is trying to stop their dad from doing something,Conflict
+2140,12810.72,12812.37,That's enough!,"['authority', 'seriousness']",A person is asserting their authority and setting a boundary.,Confrontation
+2141,12814.04,12816.566,"Dad, please stop!",['concern'],A child is asking their father to stop doing something,family interaction
+2142,12822.16,12824.083,Please stop!,['concern'],A person is trying to stop something or someone from happening,urgency
+2143,12869.76,12872.366,You better come back later.,['caution'],"Telling someone to come back later, implying it's not a good time now.",Warning
+2144,12872.76,12876.048,"Mom and Dad think
+you're studying at the library.",['deception'],Lying about studying,Deception
+2145,12876.6,12879.524,"If they find out
+you took the watch...","['concern', 'caution']",Warning about getting caught,Warning
+2146,12880.36,12882.931,they'll be even more heartbroken.,['concern'],Someone is worried about others being heartbroken.,empathy
+2147,12885.24,12887.925,"Lao Er came up
+with a load of cash.",['surprise'],Lao Er suddenly appears with a large amount of money.,unexpected event
+2148,12889.32,12892.29,"He wanted to buy back
+the watch for you...","['love', 'gratitude']",Someone wants to buy back a watch for their loved one.,Relationship
+2149,12893.08,12896.163,"but Mom found
+the money on him first.",['surprise'],A discovery is made,Revelation
+2150,12901.96,12903.962,You mustn't feel alone.,['concern'],Someone is trying to comfort another person,Comforting
+2151,12905.32,12907.561,I'm always with you.,"['love', 'protectiveness']",A person reassures another of their presence and support,Relationship
+2152,12908.24,12910.527,Don't turn me away again.,['concern'],A character is asking someone not to reject them,relationship
+2153,12910.72,12914.611,"Let God into your heart.
+He'll give you his strength.","['love', 'gratitude']",A character is telling someone to have faith and trust in God.,Religious/Motivational
+2154,12916.44,12917.805,But...,"['caution', 'concern']",A character is hesitant or unsure about something,Uncertainty
+2155,12918.64,12920.768,there's too much suffering...,['concern'],The character expresses worry about the amount of suffering,Empathy
+2156,12921.2,12923.168,too much injustice.,['concern'],expression of dismay at unfairness,social issue
+2157,12925.04,12927.691,"Aren't you giving others
+too little credit","['concern', 'caution']",questioning someone's judgment,interpersonal
+2158,12928.28,12931.363,"and always thinking
+only of yourself?",['concern'],Accusing someone of being selfish,Conflict
+2159,12932.16,12933.924,Christ gave his life,"['awe', 'love', 'gratitude']",A character mentions Jesus Christ's sacrifice,Religious
+2160,12934.4,12936.243,for our sins.,"['seriousness', 'concern']",A character expresses remorse or guilt.,reflection
+2161,12937.64,12942.646,"Even Lao Er took the blame
+for your wrongs.",['concern'],Accusing someone of taking the blame for someone else's mistakes,Conflict
+2162,12944.16,12947.323,"You should show gratitude
+for what others have done for you.",['gratitude'],Advice on appreciating others' help,advice
+2163,12947.8,12950.804,"Have you ever done
+anything for anyone?",['curiosity'],Asking about selfless acts,questioning
+2164,12952.2,12954.646,You should think it over carefully.,['caution'],Advising someone to be careful in their decision-making.,Advice
+2165,12959.0,12960.889,Honey told me the same thing.,"['neutral', 'trust']",someone is relaying a message from their partner,relationship
+2166,12961.0,12962.081,Who?,['curiosity'],Someone is asking for clarification on who is being referred to.,question
+2167,12963.52,12965.204,Never mind.,['neutral'],The speaker is dismissing a previous topic.,dismissal
+2168,12965.68,12967.603,A good friend.,['affection'],A person is being referred to as a good friend.,social
+2169,12972.04,12976.011,"Have you ever read
+War and Peace <i>?</i>",['curiosity'],Asking about someone's reading experience,inquiry
+2170,12978.16,12981.369,"Why don't you talk it over
+with Reverend Chen tomorrow?",['concern'],Character suggests talking to a reverend about a problem,Advice
+2171,12994.52,12996.841,"- What's up?
+- We're not finished yet.",['determination'],A character refuses to give up on a task.,goal-oriented
+2172,12997.0,13000.209,"- What's this about?
+- Don't play dumb, asshole.","['concern', 'caution']",Accusation and denial,Conflict
+2173,13000.36,13003.921,"Fuck you, going off on me
+over some girl!","['anger', 'incredulity']",Argument over a girl,Conflict
+2174,13004.04,13005.565,Aren't you my bUddY?,['affection'],A character inquires about their friendship,personal relationship
+2175,13005.72,13007.768,You go on like an old lady.,['amusement'],teasing someone,playful banter
+2176,13007.88,13010.326,"You said you'd given up
+girls for books.",['surprise'],Accusing someone of lying about their interests,Confrontation
+2177,13010.44,13013.33,"Now you start bitching.
+You got some nerve!","['concern', 'caution']",Someone is being reprimanded for complaining.,Conflict
+2178,13013.44,13015.966,"I've always been good to you.
+- Shut your mouth!","['anger', 'concern']",A person is being told to shut their mouth after mentioning they've been good to someone,Conflict
+2179,13016.44,13018.408,Shut your mouth and listen good.,"['authority', 'seriousness']",A person is being told to be quiet and pay attention.,command
+2180,13018.52,13021.0,"I've had enough
+of your rich-kid theories.",['concern'],A person is fed up with someone's privileged perspective,Conflict
+2181,13021.32,13022.924,Starting today...,['anticipation'],A new beginning or a fresh start,life event
+2182,13023.04,13025.771,"if I hear you're still
+hanging out with Ming,","['concern', 'caution']",Warning someone about hanging out with a specific person,Interpersonal warning
+2183,13025.88,13028.884,I'm coming after you!,['determination'],A character threatens to pursue someone,Confrontation
+2184,13034.32,13037.449,"Motherfuckin' punk!
+I let you be my best friend!",[],unknown,unknown
+2185,13037.56,13041.645,"Fuck! Don't forget
+who you're messing with!",[],unknown,unknown
+2186,13041.76,13044.764,"<i>I'll</i> be waitin' for you, buddy!",['affection'],A character expresses friendship and loyalty to someone.,Friendly interaction
+2187,13044.88,13047.087,I'll kick your ass!,['determination'],a threat,conflict
+2188,13049.24,13052.767,"I've been looking all over for you.
+Cool it. We're all good friends.","['relief', 'affection']",Reuniting with a friend after a search,Social Interaction
+2189,13053.16,13055.447,"Cool it for my sake, okay?",['concern'],Someone is asking another person to calm down for their own sake.,request
+2190,13056.32,13059.085,"Let's talk it over.
+<i>I'll</i> bring him to you.","['calm', 'determination']",A character agrees to bring someone to another character.,agreement
+2191,13059.24,13062.369,"Come on, man.
+Don't act this way.",['concern'],trying to calm someone down,interpersonal issue
+2192,13064.2,13066.248,It makes us look bad.,['concern'],Someone is worried about how a situation reflects on them or their group.,Social interaction
+2193,13066.36,13068.044,Wait at the film studio.,['neutral'],Giving instructions,directive
+2194,13068.2,13070.931,"<i>I'll</i> go talk to him.
+<i>I'll</i> bring him to you.",['determination'],A person is taking initiative to resolve a situation,problem-solving
+2195,13071.16,13073.322,Cool it for my sake.,"['calm', 'concern']",One person is asking another to relax a situation for their own benefit.,Request
+2196,13073.6,13075.602,"Come on, man.","['curiosity', 'concern']",One person is trying to persuade or understand the other.,Encouragement
+2197,13087.16,13090.562,"Let's drop it for today.
+I need time to talk to him.",[],unknown,unknown
+2198,13090.72,13093.121,"He brought
+his samurai sword to class.","['surprise', 'incredulity']",A student brings an unusual item to class,Humorous situation
+2199,13093.28,13095.601,"Let's do it tomorrow, okay?",['caution'],Postponing a plan or task,Decision Making
+2200,13095.72,13098.007,Go home and cool down.,['caution'],Someone is being told to calm down,Conflict
+2201,13098.28,13101.204,"Do it for me, okay?",['concern'],Asking for help,Request
+2202,13101.48,13103.801,"Let's make it tomorrow, okay?",['anticipation'],Planning a future event,Social
+2203,13104.16,13106.447,Okay? For sure?,"['caution', 'concern']",The speaker is asking for confirmation to ensure everything is fine., Clarification
+2204,13106.76,13109.491,"I gotta go.
+I'm late for class.","['concern', 'caution']",leaving for class,daily routine
+2205,13163.72,13165.484,Your brother's not here yet?,['concern'],inquiring about someone's absence,query
+2206,13165.6,13168.206,My family said he was on his way.,['concern'],"The speaker is informing about someone's arrival, but seems worried.",announcement
+2207,13168.68,13170.125,Well...,"['neutral', 'caution']","A character is pausing before speaking, indicating hesitation or uncertainty.", hesitation
+2208,13170.64,13172.847,let's wait another half hour.,['caution'],Deciding to wait for a while.,Decision making
+2209,13172.96,13175.691,"- I'm sorry, Reverend Chen.
+- It's okay.","['apology', 'forgiveness']",A person apologizes to Reverend Chen and he forgives them,apology and forgiveness
+2210,13176.04,13178.566,Well... excuse me.,"['surprise', 'incredulity']",A person is taken aback by something,reaction
+2211,13206.08,13207.65,Hey there!,['affection'],A casual greeting,social interaction
+2212,13209.88,13213.771,"Can you help me find
+that young girl you were with before?",['concern'],Asking for help to find someone,query
+2213,13213.96,13216.884,She moved after the screen test.,[],unknown,unknown
+2214,13217.0,13218.923,You know where to?,['curiosity'],Asking for directions,Query
+2215,13219.08,13223.085,"She cries and laughs,
+and makes it all look natural!","['joy', 'amusement']",A person is expressing strong emotions in a natural way,comedy
+2216,13223.2,13224.611,Natural?,['incredulity'],Questioning the authenticity of something,doubt
+2217,13225.0,13227.446,You can't even tell real from fake.,['incredulity'],The speaker expresses disbelief in someone's ability to distinguish reality from falsehood.,Accusation
+2218,13227.56,13229.562,How can you make movies?,['curiosity'],Asking about filmmaking,Inquiry
+2219,13231.48,13234.45,"You even know
+what the hell you're filming?",['incredulity'],A person is questioning someone's competence in filming,Confrontation
+2220,13241.6,13243.284,<i>Cat's at school.</i>,['neutral'],The speaker is stating a fact about someone's location.,informative statement
+2221,13243.44,13245.283,<i>I'm just borro wing a book.</i>,['neutral'],A character is borrowing a book.,everyday activity
+2222,13245.44,13246.646,<i>What book?</i>,['curiosity'],A person asks about a book,query
+2223,13246.76,13248.762,<i>I know where it is.</i>,['confidence'],Character claims to know the location of something.,assertion
+2224,13305.92,13308.366,How come his bike's still here?,['curiosity'],Questioning the presence of someone's bike,Investigation
+2225,13308.52,13312.411,"Strange. He's usually
+the first one out of here.","['curiosity', 'surprise']",Someone is late to leave a place,daily life
+2226,13317.4,13319.084,Si?!,['surprise'],A character responds with surprise to something unexpected.,reaction
+2227,13339.04,13340.883,What's the matter?,['concern'],Someone asks about the well-being of another person,Inquiry
+2228,13342.04,13344.441,What brings you here to school?,['curiosity'],Asking about someone's purpose,Social Interaction
+2229,13347.04,13348.769,What's that?,['curiosity'],Someone asks about something,inquiry
+2230,13351.08,13353.56,"Stop acting like this.
+What's that?","['concern', 'curiosity']",One person is reprimanding and asking about something,Conflict
+2231,13364.12,13366.282,You're here for Ma.,['concern'],"A character is addressing someone who has arrived, seemingly for the sake of someone else (Ma).",family
+2232,13368.56,13370.449,Tell me! Are you?,['curiosity'],One character asks another to reveal something.,question
+2233,13372.68,13375.081,"How could you do
+a thing like that?",['concern'],Accusation of wrongdoing,Conflict
+2234,13376.24,13378.447,"I won't let anyone
+look down on you.","['protectiveness', 'determination']",The speaker is defending someone they care about.,support
+2235,13379.76,13381.762,What are you talking about?,"['curiosity', 'incredulity']",Asking for clarification,Query
+2236,13385.16,13387.845,"Aren't you supposed
+to be home studying?",['concern'],Someone is being asked about their responsibility,admonishment
+2237,13394.64,13397.769,"Ming, I know all about you.","['curiosity', 'authority']",One person confronts another about their past,confrontation
+2238,13398.36,13400.01,But I don't mind.,"['neutral', 'calm']",A person responds to a situation without showing any distress or concern.,response
+2239,13400.44,13402.09,Because only I know.,['authority'],A character claims exclusive knowledge,assertion
+2240,13402.24,13404.527,"I'm the only one
+who can help you.","['confidence', 'protectiveness']",A character claims they are the only one who can help someone,assertion
+2241,13405.0,13407.526,I'm the only hope you have left.,"['authority', 'protectiveness']",A character claims to be the last resort for someone in need.,declaration
+2242,13407.96,13410.088,Just like Honey used to be.,['nostalgia'],The speaker is reminiscing about the past.,reflection
+2243,13410.72,13413.451,"That's why
+you still can't forget Honey.",['nostalgia'],Talking about a past love,romance
+2244,13415.04,13418.123,"Because right now,
+I'm another Honey.","['confidence', 'pride']",Character is confidently declaring their identity,Self-acceptance
+2245,13423.44,13427.126,"You mean you're the only one
+who can help change me, right?","['hope', 'determination']",Asking for help to change oneself,Personal Growth
+2246,13427.84,13430.127,Why are you like all the rest?,"['concern', 'incredulity']",The speaker is questioning someone's behavior,conflict
+2247,13431.04,13434.522,"I was wrong about you.
+You're just like the others.","['surprise', 'incredulity']",Someone realizes they misjudged someone else,Realization
+2248,13434.64,13438.042,"You're nice to me
+just so I'll be nice to you.",['incredulity'],Accusation of insincerity,Conflict
+2249,13439.44,13441.647,"Then you'll feel secure, right?",['concern'],The speaker is asking if the person will feel safe after a certain action,Query
+2250,13442.44,13444.09,You're so selfish.,['concern'],One person accuses another of being selfish.,Conflict
+2251,13445.36,13447.169,You want to change me?,"['concern', 'caution']",One person questions another's intentions,Interpersonal conflict
+2252,13447.28,13449.248,I'm like this world.,['curiosity'],The speaker is expressing their fascination with the world.,Self-reflection
+2253,13449.36,13452.887,"This world will never change!
+Who do you think -","['incredulity', 'concern']",Expressing frustration and doubt about the possibility of change,Social commentary
+2254,13456.52,13458.409,You're hopeless!,['concern'],Someone is being criticized,negative feedback
+2255,13459.04,13461.168,Shameless and hopeless!,['concern'],Expressing disappointment and despair,Negative Emotion
+2256,13486.6,13487.965,Ming.,['neutral'],Addressing someone by their name,informal greeting
+2257,13489.0,13490.57,Get up.,['authority'],Someone is being told to stand up.,command
+2258,13492.52,13494.204,"Quick, get up.",[],unknown,unknown
+2259,13495.16,13496.844,Get on your feet.,['authority'],A person is being told to stand up.,instruction
+2260,13497.92,13500.287,You won't die. Believe me.,"['confidence', 'protectiveness']",Reassuring someone of their safety,Comfort
+2261,13503.48,13505.926,Hurry and get UP-,"['urgency', 'concern']",Someone is being told to get up quickly,Instruction
+2262,13507.36,13509.283,You can do it.,['confidence'],Encouraging someone to take action,Support
+2263,13512.36,13514.522,Please get up.,"['authority', 'concern']",Someone is being told to get up,directive
+2264,13517.84,13519.41,Get up!,['authority'],Someone is being told to stand up,Command
+2265,13523.44,13525.886,Why won't you get UP?,['concern'],Someone is trying to get someone to get up,Conflict
+2266,13531.4,13533.846,Where is he?,['concern'],Someone is looking for someone.,query
+2267,13533.96,13537.407,"I'm looking for my brother.
+You got the wrong person!","['concern', 'surprise']",A character is mistaken for someone else and corrects the mistake.,misunderstanding
+2268,13537.56,13539.722,You've made a mistake!,"['concern', 'caution']",Someone is pointing out an error,Confrontation
+2269,13549.92,13552.002,You got the wrong person!,"['incredulity', 'surprise']",A person is mistaken for someone else,conflict
+2270,13554.24,13556.083,<i>Where's Sh'?</i>,['concern'],Someone is looking for Sh,Query
+2271,13572.64,13574.927,So that's the guy.,"['neutral', 'curiosity']",Identifying someone,Observation
+2272,13576.6,13578.648,"Strange.
+I don't know this one.","['curiosity', 'incredulity']",The speaker is puzzled by something unfamiliar.,confusion
+2273,13579.32,13581.209,What gang is he with?,"['concern', 'caution']",the character is asking about someone's affiliation with a gang,inquiry
+2274,13582.44,13586.445,"I know every one
+of these assholes in town.",['concern'],"The speaker is aware of everyone in town, implying a sense of unease or potential threat.",Threat Perception
+2275,13595.44,13597.124,“Dear Sis...”,['affection'],A character addresses their sister with affection,Family
+2276,13597.28,13599.282,Found that in his pocket.,['surprise'],Finding something unexpected in someone's pocket,Discovery
+2277,13601.2,13602.929,“I'm sorry.,['concern'],Apologizing for something,Regret
+2278,13603.56,13606.404,"I know you're the only one
+who understands.","['gratitude', 'affection']",expressing appreciation for someone's understanding,personal
+2279,13606.52,13609.842,"Please help explain
+to Mom and Dad...","['concern', 'caution']",Asking for help to explain something to parents,Family Interaction
+2280,13610.96,13613.44,in case I never see you again.”,['nostalgia'],a character says goodbye,farewell
+2281,13615.48,13617.323,What's the little jerk's name?,['curiosity'],Asking about someone's name,Inquiry
+2282,13617.48,13620.29,"Can't even write his name.
+Drew a funny face!",['amusement'],Someone is making a funny face to avoid writing someone's name,humorous
+2283,13620.64,13622.642,What's his problem?,['concern'],Someone is wondering about another person's issue.,inquiry
+2284,13623.48,13625.847,XIAO SFR,[],no context provided,unknown
+2285,13634.92,13637.161,"Get up.
+Time to change.","['authority', 'seriousness']",Someone is being told to get up and change.,instruction
+2286,13638.32,13639.89,Get up.,['authority'],Ordering someone to stand up,instruction
+2287,13640.0,13642.321,Get up and get changed!,['authority'],Ordering someone to get up and change,Command
+2288,13642.48,13644.562,You little punk!,"['authority', 'concern']",A character is scolding or reprimanding someone,Conflict
+2289,13644.68,13646.728,She's mine!,"['protectiveness', 'possessiveness']",claiming ownership of a person,romantic relationship
+2290,13646.84,13649.764,You can't take her away!,"['protectiveness', 'concern']",A character is trying to prevent someone from taking someone else away.,conflict
+2291,13650.0,13652.606,You can't do this!,"['concern', 'authority']",A person is trying to stop someone from doing something,Conflict
+2292,13666.4,13670.291,"It belongs to my old man.
+Ask him where he got it.",['curiosity'],A character is inquiring about the origin of an item,investigation
+2293,13670.4,13672.368,<i>I didn't ask him!</i>,['incredulity'],Defending oneself from an accusation,Conflict
+2294,13672.48,13673.891,I'm asking you!,['authority'],The speaker is demanding an answer.,confrontation
+2295,13674.04,13676.202,"Why'd you bring
+this sword to class?","['curiosity', 'surprise']",A student brings a sword to class and is questioned about it.,school
+2296,13678.0,13680.731,"I know
+you're mixed up in all this!",['concern'],Accusing someone of involvement in a situation,Accusation
+2297,13681.8,13683.882,We know your father well.,"['curiosity', 'authority']",A character mentions knowing someone's father,introduction
+2298,13684.0,13686.048,Can't you just cooperate?,[],unknown,unknown
+2299,13686.2,13688.726,"That's my son!
+What are you doing to him?","['concern', 'protectiveness']",A parent is worried about their child being harmed,Family
+2300,13688.84,13691.764,"This is outrageous!
+We're a respectable family!","['incredulity', 'pride']",Family members react to a scandal,family conflict
+2301,13692.12,13694.691,"Treating an innocent child
+like this!","['concern', 'caution']",expressing concern for a child's well-being,moral outrage
+2302,13694.88,13696.564,The latest report:,['neutral'],Someone is presenting or sharing information,Information exchange
+2303,13696.72,13698.643,"The girl's mother
+just committed suicide.",['concern'],A character shares devastating news about a family member.,Tragedy
+2304,13698.76,13700.444,Who's in charge here?,"['authority', 'curiosity']",A character asks about leadership in a group,questioning
+2305,13700.56,13702.562,I am! I'm the boss here!,"['confidence', 'authority']",Asserting dominance,Conflict
+2306,13702.72,13704.404,Now you get out!,['authority'],Ordering someone to leave,Confrontation
+2307,13704.52,13707.171,"- How dare you speak to me like that!
+- Out!","['concern', 'authority']",A person is being spoken to in a disrespectul manner and responds by telling the other to leave.,Conflict
+2308,13707.28,13709.567,"Who is that man?
+I want his name!","['curiosity', 'authority']",Demanding information about someone,Inquiry
+2309,13709.92,13711.649,What's his name?,['curiosity'],Asking for someone's name,inquiry
+2310,13711.8,13713.564,Write down his name!,['authority'],A person is giving a firm instruction to write down a name.,instruction
+2311,13724.28,13727.25,He was the only friend I had.,"['affection', 'nostalgia']",The speaker talks about a past friend.,personal_relationship
+2312,13728.92,13730.524,And now...,['anticipation'],The speaker is introducing something new or surprising.,Transition
+2313,13758.12,13761.124,"<i>We heard the girl's mother
+tried to kill herself.</i>",['concern'],Girl's mother attempted suicide,tragic event
+2314,13761.24,13763.242,<i>Tell us about it.</i>,['curiosity'],Someone is asked to share their experience or story.,inquiry
+2315,13763.36,13765.249,<i>Let us talk to her.</i>,['curiosity'],Character suggests talking to someone,Social Interaction
+2316,13765.36,13768.284,"<i>Everyone wants to know
+what really happened.</i>","['curiosity', 'incredulity']",People are curious and want to know the truth,inquiry
+2317,13768.48,13771.45,"<i>She tried to kill herself
+by swallowing her gold ring.</i>",['concern'],A character attempts suicide,dramatic
+2318,13771.56,13773.562,<i>I really don 'I know much else.</i>,"['neutral', 'incredulity']",Character expressing uncertainty and lack of knowledge,Admission of ignorance
+2319,13773.68,13775.444,<i>Please be considerate.</i>,"['caution', 'concern']",A polite request to be mindful of others,Social interaction
+2320,13775.56,13777.688,<i>Do you know the boy?</i>,['curiosity'],Asking about someone,Inquiry
+2321,13777.8,13780.849,"<i>Relax. The mother survived.
+No big deal.</i>","['relief', 'calm']",Someone is told to relax after hearing good news.,good news
+2322,13780.96,13783.645,"I heard you had
+an affair with the girl.",['concern'],Accusation of infidelity,Conflict
+2323,13783.76,13787.048,"Any comment?
+- We heard the same thing.",['neutral'],Two people responding to a question with indifference,Conversation
+2324,13787.16,13790.13,"What?
+Have you no decency?","['incredulity', 'concern']",A person expresses shock and dismay at another's lack of morality.,Confrontation
+2325,13790.24,13793.21,Get out! All of you!,"['authority', 'concern']",A person orders others to leave,command
+2326,13794.32,13796.482,"Who do you think you are?
+Out!","['authority', 'concern']",A person is being told to leave,Confrontation
+2327,13796.6,13798.762,He has a guilty conscience.,"['concern', 'caution']",Someone's guilty conscience is acknowledged,Personal Realization
+2328,13798.88,13802.202,"What's wrong
+with asking a question?","['curiosity', 'incredulity']",A person is asking a question and is met with resistance,Conflict
+2329,13802.36,13805.842,"Let's check out
+the police department again.","['determination', 'curiosity']",Deciding to investigate the police department,investigation
+2330,13806.6,13813.848,"<i>There is a place
+of peace and calm</i>",[],unknown,unknown
+2331,13814.84,13819.971,<i>Safe in G0d's embrace</i>,"['awe', 'gratitude']",A character is at peace with their faith,faith
+2332,13821.0,13824.209,<i>In that place</i>,['curiosity'],Character is wondering about a place,Questioning
+2333,13824.6,13828.525,<i>No evil dwells</i>,['awe'],A character utters a profound and mysterious phrase.,Philosophical/Mysterious
+2334,13829.16,13834.405,<i>Safe in G0d's embrace</i>,['awe'],Character finds comfort in faith,Religious
+2335,13835.52,13842.529,"<i>Jesus, our benevolent savior</i>","['awe', 'respect']",Addressing Jesus,religion
+2336,13843.76,13848.891,<i>Comes from G0d's embrace</i>,['awe'],A character is in a state of reverence,Religious
+2337,13849.76,13857.008,<i>We earnestly await the time</i>,['anticipation'],Awaiting a future event,Waiting
+2338,13857.96,13863.569,<i>When we'll rest in G0d's embrace</i>,[],unknown,unknown
+2339,13865.0,13867.048,"In the summer of 1961,",[],The scene is set in the summer of 1961.,Setting
+2340,13867.16,13869.64,"Xiao Si'r received
+the death sentence","['seriousness', 'concern']",Xiao Si'r is sentenced to death,judgment
+2341,13869.76,13872.65,from the District Court of Taipei.,[],A formal court document is being read.,official
+2342,13872.8,13875.406,"Being the first juvenile
+homicide case in Taiwan",['seriousness'],Discussing a significant criminal case,crime
+2343,13875.56,13877.562,"under Nationalist
+government rule,",[],unknown,unknown
+2344,13877.68,13879.762,"the case and sentence
+were widely debated.","['neutral', 'concern']",A court's verdict is being discussed,Legal
+2345,13879.92,13882.048,"The District High Court
+later commuted the sentence",[],unknown,unknown
+2346,13882.16,13883.844,to 15 years in prison.,['concern'],A sentence is given to someone,judicial
+2347,13883.96,13887.248,"Xiao Si'r was released from prison
+shortly before his 30th birthday.",['relief'],Xiao Si'r being released from prison,Personal Freedom
+2348,13887.36,13889.84,Two months after the incident...,"['neutral', 'seriousness']",The scene is set two months after a significant event.,setup
+2349,13890.08,13893.687,"The other gentlemen said
+you accept tapes.",['neutral'],A person is being told about what other gentlemen said,Information Exchange
+2350,13896.24,13898.083,Who said that?,['curiosity'],A character asks about the source of a statement,question
+2351,13899.6,13901.523,You're making it up.,['incredulity'],Someone accuses the other of fabricating a story,Conflict
+2352,13901.96,13903.928,We never accept tapes.,['authority'],A firm rule is stated.,rule
+2353,13904.08,13905.969,I wanted to leave a letter.,['nostalgia'],"The speaker wants to leave a letter, likely as a way to express their feelings or memories.",Personal Reflection
+2354,13906.12,13909.283,"He said letters get lost easily
+in the mail room.","['concern', 'caution']",expressing concern about losing letters in the mail, warning
+2355,13909.4,13911.767,He suggested a tape instead.,['neutral'],Someone suggests using a tape instead.,Suggestion
+2356,13917.44,13920.171,"- Are you a family member?
+- No.","['neutral', 'caution']",A person is being questioned about their relationship,interrogation
+2357,13921.32,13924.29,"Mister, didn't you say
+you accept tapes?",[],unknown,unknown
+2358,13928.48,13930.448,Do you or don't you?,['curiosity'],One person is asking another if they have a certain feeling or opinion.,question
+2359,13930.64,13932.881,"- Who's it for?
+- Zhang Zhen.",['neutral'],Identifying a person,Introduction
+2360,13933.2,13934.929,All right.,['neutral'],The speaker is agreeing or confirming something.,agreement
+2361,13940.76,13943.081,Just leave it and go!,"['concern', 'caution']",A person is telling someone to leave a situation that might be dangerous,Warning
+2362,13946.48,13949.484,"<i>Si'r, remember
+this song I recorded?</i>",['nostalgia'],memory recall,
+2363,13949.96,13952.167,<i>Guess who I mailed it to.</i>,"['surprise', 'incredulity']",Someone reveals a surprising action,Revelation
+2364,13952.44,13954.283,<i>Elvis!</i>,"['excitement', 'surprise']",Someone exclaims Elvis' name with enthusiasm,celebrity recognition
+2365,13954.44,13956.363,<i>He even wrote back.</i>,"['surprise', 'incredulity']",A person is surprised that someone they wrote to responded.,Personal interaction
+2366,13956.48,13960.007,"<i>He was surprised to learn
+his music is so popular</i>",['surprise'],Learning about one's own popularity,Discovery
+2367,13960.16,13962.322,<i>on this unknown little island.</i>,"['curiosity', 'awe']",Describing a mysterious island,Setting
+2368,13962.48,13966.69,"<i>He was touched.
+He even sent me a gift.</i>","['gratitude', 'affection']",Receiving a gift from someone who was touched,Social Interaction
+2369,13967.28,13969.408,<i>Too bad you can't see it.</i>,"['surprise', 'incredulity']",sarcasm,conflict
+2370,13969.52,13972.41,"<i>I wear the ring
+he sent me every day.</i>","['love', 'affection']",The speaker mentions wearing a ring every day that was given by someone special.,romantic
+2371,13972.56,13974.642,<i>It's really cool!</i>,"['excitement', 'amusement']",expressing enthusiasm about something,personal reaction
+2372,13975.32,13979.689,"<i>I just don't know
+when I 'II get to show it to you.</i>","['anticipation', 'love']",The speaker is longing to share something special with someone they care about.,Personal Relationship
+2373,13982.0,13984.685,What's this thing?,['curiosity'],Someone asks about an unknown object.,inquiry
+2374,13984.88,13986.644,Shit!,"['surprise', 'incredulity']",exclamation of shock,reaction
+2375,14032.52,14034.761,"Hey, the radio's working!","['excitement', 'surprise']",Discovering that the radio is working after possibly being broken,Technical issue
+2376,14035.4,14038.563,"Don't move it!
+It'll cut out again!","['concern', 'caution']", Warning about a potential problem with a device,Advisory
+2377,14038.92,14043.13,"<i>Kang Fu-mei,
+Wang Chao-jen, Yeh Hsin-ming...</i>",['respect'],"A character is listing names, likely with admiration or reverence",introduction
+2378,14043.24,14046.642,"<i>Chao Hung,
+Chen Cheng-chen...</i>",['respect'],A character is being addressed with respect,Introduction
+2379,14081.4,14085.246,"<i>The preceding have qualified
+for the Chinese Literature Department.</i>",['neutral'],Announcement of qualified students,Academic
+2380,14086.28,14090.001,"<i>The following have qualified
+for the Foreign Literature Department</i>",['pride'],Announcement of successful candidates,Academic
+2381,14090.12,14093.681,<i>at National Taiwan University:</i>,[],Setting the scene at National Taiwan University,Establishing context
+2382,14094.52,14097.524,"<i>Chou Fu-jung, Chang Shih-ling...</i>",['respect'],A person is being addressed with respect.,Address
+2383,14097.64,14100.723,"<i>Chen Cheng-fu, Chang Chih-ho...</i>",['respect'],A character is being addressed with respect,address
+2384,14105.4,14108.006,Also Featuring,['neutral'],listing additional credits,credits
+2385,14108.48,14112.804,"WANG CHUAN, CHANG HAN
+CHIANG HSIU-CHIUNG",[],Introduction of names,Introduction
+2386,14113.16,14117.484,"STEPHANIE LAI
+WONG CHI-ZAN, LAWRENCE KO",[],Character names,Introduction
+2387,14117.8,14122.806,"TAN CHIH-KANG
+CHANG MING-HSIN, JUNG CHUN-LUNG",[],Character names are being mentioned,Introduction
+2388,14123.16,14127.404,"ZHOU HUI-GUO
+TANG HSIAO-TSUI, LIN HONG-MING",[],Introducing characters' names,Introduction
+2389,14127.84,14131.925,"BOSEN WANG
+CHEN HUNG-YU",[],Introducing characters,Introduction
+2390,14132.32,14136.484,"HSU MING, CHO MING",['neutral'],Two people are being referred to,Introduction
+2391,14139.6,14142.604,Set Decoration by EDWARD YANG,[],Credit roll,neutral
+2392,14142.84,14146.003,"Production Design by
+YU WEI-YEN",[],credits,movie credits
+2393,14146.12,14148.851,"Costume Design by
+WU LE-CHIN",['neutral'],Credits roll,Intro

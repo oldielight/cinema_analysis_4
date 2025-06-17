@@ -1,0 +1,266 @@
+{
+  "id":{
+    "0":20,
+    "1":21,
+    "2":22,
+    "3":23,
+    "4":24,
+    "5":25,
+    "6":26,
+    "7":27,
+    "8":28,
+    "9":29,
+    "10":30,
+    "11":31,
+    "12":32,
+    "13":33,
+    "14":34,
+    "15":35,
+    "16":36,
+    "17":37,
+    "18":38,
+    "19":39,
+    "20":40,
+    "21":41,
+    "22":42,
+    "23":43
+  },
+  "start":{
+    "0":178.596,
+    "1":180.723,
+    "2":182.933,
+    "3":186.437,
+    "4":189.982,
+    "5":195.529,
+    "6":199.533,
+    "7":201.243,
+    "8":239.823,
+    "9":245.996,
+    "10":253.587,
+    "11":263.347,
+    "12":269.186,
+    "13":272.439,
+    "14":277.778,
+    "15":281.657,
+    "16":283.534,
+    "17":285.452,
+    "18":290.374,
+    "19":297.464,
+    "20":302.136,
+    "21":317.067,
+    "22":337.421,
+    "23":346.055
+  },
+  "end":{
+    "0":180.598,
+    "1":182.766,
+    "2":186.312,
+    "3":188.772,
+    "4":194.236,
+    "5":198.866,
+    "6":200.951,
+    "7":202.453,
+    "8":245.329,
+    "9":250.167,
+    "10":254.964,
+    "11":268.435,
+    "12":271.814,
+    "13":276.819,
+    "14":281.532,
+    "15":282.783,
+    "16":284.535,
+    "17":289.206,
+    "18":294.837,
+    "19":301.385,
+    "20":306.015,
+    "21":319.778,
+    "22":339.631,
+    "23":349.224
+  },
+  "text":{
+    "0":"- You are?\n- Takabe, from headquarters.",
+    "1":"Thank you for coming.",
+    "2":"Mr. Takabe,\ndo you want to see the cleaner...",
+    "3":"- who found the body?\n- No.",
+    "4":"A prostitute. Something like this\nwas bound to happen someday.",
+    "5":"- I'm Takabe.\n- Yasukawa, from the precinct.",
+    "6":"Find anything?",
+    "7":"Yes.",
+    "8":"If it was this Kuwano guy,\nhe took off in the raw.",
+    "9":"And he left us his ID.",
+    "10":"Excuse me.",
+    "11":"She was struck with a blunt object,\nbut she died from loss of blood.",
+    "12":"It wouldn't have taken long.",
+    "13":"Both carotid arteries\nhave been neatly severed.",
+    "14":"Have you ever seen wounds\nlike this before?",
+    "15":"No.",
+    "16":"I see.",
+    "17":"But the perp is no ordinary character.",
+    "18":"You don't have to go this far\njust to kill someone.",
+    "19":"The suspect may have\na motorcycle or a bicycle.",
+    "20":"Check all the service roads.\nI'm on my way.",
+    "21":"I'm going to check out his neighborhood.\nYou want to come?",
+    "22":"Takabe, here.",
+    "23":"<i>Then there was blood everywhere.<\/i>"
+  },
+  "emotions":{
+    "0":[
+      "neutral"
+    ],
+    "1":[
+      "happiness"
+    ],
+    "2":[
+      "neutral"
+    ],
+    "3":[
+      "neutral",
+      "contempt"
+    ],
+    "4":[
+      "sadness",
+      "contempt"
+    ],
+    "5":[
+      "neutral"
+    ],
+    "6":[
+      "neutral"
+    ],
+    "7":[
+      "neutral"
+    ],
+    "8":[
+      "neutral"
+    ],
+    "9":[
+      "surprise",
+      "neutral"
+    ],
+    "10":[
+      "neutral"
+    ],
+    "11":[
+      "sadness",
+      "neutral"
+    ],
+    "12":[
+      "sadness",
+      "neutral"
+    ],
+    "13":[
+      "disgust",
+      "sadness"
+    ],
+    "14":[
+      "disgust",
+      "surprise"
+    ],
+    "15":[
+      "contempt"
+    ],
+    "16":[
+      "neutral"
+    ],
+    "17":[
+      "neutral"
+    ],
+    "18":[
+      "anger",
+      "contempt"
+    ],
+    "19":[
+      "neutral"
+    ],
+    "20":[
+      "neutral"
+    ],
+    "21":[
+      "neutral"
+    ],
+    "22":[
+      "neutral"
+    ],
+    "23":[
+
+    ]
+  },
+  "situation":{
+    "0":"introducing oneself",
+    "1":"expressing gratitude",
+    "2":"meeting a cleaner",
+    "3":"investigating a murder",
+    "4":"condemning someone's actions",
+    "5":"introducing oneself",
+    "6":"searching for something",
+    "7":"simple agreement",
+    "8":"investigating a suspect",
+    "9":"inheriting an id",
+    "10":"polite conversation",
+    "11":"murder investigation",
+    "12":"reflection on past event",
+    "13":"victim of brutal murder",
+    "14":"examining wounds",
+    "15":"refusing something",
+    "16":"realization",
+    "17":"describing a suspect",
+    "18":"confronting a killer",
+    "19":"describing a suspect",
+    "20":"giving directions",
+    "21":"inviting to a trip",
+    "22":"calling someone",
+    "23":"unknown"
+  },
+  "situation_type":{
+    "0":"dialogue",
+    "1":"social interaction",
+    "2":"introduction",
+    "3":"crime",
+    "4":"judgment",
+    "5":"social",
+    "6":"investigation",
+    "7":"dialogue",
+    "8":"investigation",
+    "9":"family",
+    "10":"social",
+    "11":"crime",
+    "12":"introspection",
+    "13":"crime",
+    "14":"medical",
+    "15":"conflict",
+    "16":"introspection",
+    "17":"investigation",
+    "18":"confrontation",
+    "19":"investigation",
+    "20":"instruction",
+    "21":"social",
+    "22":"dialogue",
+    "23":"unknown"
+  },
+  "valence":{
+    "0":0.5,
+    "1":1.0,
+    "2":0.5,
+    "3":0.475,
+    "4":0.375,
+    "5":0.5,
+    "6":0.5,
+    "7":0.5,
+    "8":0.5,
+    "9":0.6,
+    "10":0.5,
+    "11":0.4,
+    "12":0.4,
+    "13":0.35,
+    "14":0.55,
+    "15":0.45,
+    "16":0.5,
+    "17":0.5,
+    "18":0.35,
+    "19":0.5,
+    "20":0.5,
+    "21":0.5,
+    "22":0.5,
+    "23":0.5
+  }
+}

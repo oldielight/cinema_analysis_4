@@ -37,23 +37,17 @@ cinema_env/
 .DS_Store
 Thumbs.db
 
-# Large media files
+# Very large media files only (>100MB)
 *.mp4
 *.avi
 *.mov
 *.mkv
-*.wmv
-*.flv
-*.webm
 
-# Model weights and large data files
-*.pkl
+# Large model weights only (>50MB)
 *.h5
 *.pth
 *.pt
-*.onnx
 weights/
-models/
 
 # Output and processed data
 main_project/data/raw/
@@ -83,9 +77,8 @@ azure.json
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Large directories with generated content
+# Only very large output directories
 video_analysis_output/
-outputs/
 
 # Embedded git repositories (external models)
 model/deepface/

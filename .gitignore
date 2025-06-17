@@ -55,7 +55,7 @@ main_project/data/output/
 new_project/data/processed/
 new_project/results/
 
-# Face database (contains personal images)
+# Face database (contains personal images - privacy)
 main_project/data/my_face_db/
 main_project/data/my_face_db_cropped/
 
@@ -80,7 +80,7 @@ azure.json
 # Only very large output directories
 video_analysis_output/
 
-# Embedded git repositories (external models)
+# External git repositories
 model/deepface/
 model/leading_lines/
 model/yolo11_jde/

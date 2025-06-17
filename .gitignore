@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+cinema_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+
+# Model weights and large data files
+*.pkl
+*.h5
+*.pth
+*.pt
+*.onnx
+weights/
+models/
+
+# Output and processed data
+main_project/data/raw/
+main_project/data/output/
+new_project/data/processed/
+new_project/results/
+
+# Face database (contains personal images)
+main_project/data/my_face_db/
+main_project/data/my_face_db_cropped/
+
+# Large result files
+*.csv
+*.json
+!requirements.txt
+!**/requirements.txt
+
+# Logs
+*.log
+analysis.log
+
+# Azure and API keys
+azure.json
+*.key
+*.token
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Large directories with generated content
+video_analysis_output/
+outputs/
+
+# Embedded git repositories (external models)
+model/deepface/
+model/leading_lines/
+model/yolo11_jde/
+new_project/yolo11_jde/ 

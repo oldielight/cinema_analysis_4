@@ -1,0 +1,12 @@
+pandas
+matplotlib
+opencv-python
+numpy
+deepface
+seaborn
+ipython
+torch
+torchvision
+srt
+altair
+openai 
